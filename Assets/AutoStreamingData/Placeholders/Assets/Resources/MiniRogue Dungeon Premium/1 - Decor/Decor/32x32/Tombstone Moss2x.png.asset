@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tombstone Moss2x.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 576
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 576
+  _typelessdata: 5d802958306a5c9a000000727f7f380004012958306a5c9a00000000c3ff0f006f00710935490100002025a5240000006f00710935490100002025a5240000000469027569267169261100f8ffff0f005d802958306a5c9a000000727f7f380004099111255701606d5a00f857ff0f0004f177c92e8fe8d42c1d9eca30ffff3c040159d06ade9a32010000f03ccff3ff040159d06ade9a32010000300ccff3ff04f177cbf40a60484caf80faab300cc3048159d06ade9a32010000f08300000061099155490e00a459670700a8c00f0004912094e809fc2a40e908c012ff0fc36db031db00611e93cb301380bef7df396dc80955c99642b867e70100ee8d21215d8059d06ade9a32010000723f0000005d8059d06ade9a32010000723f0000005d80c7d056df7e3201000000407f7f7f61b1b181cd33dd09841d63813c0f8c200401d146df4e338501000000c30000000431064975df947eecae920200303ccf6db031279317c02e1f2095b7fe0f00005d80d146df4e3385010000723f0000000481c7d056df7e32010000e0530000000481c7d056df7e32010000f01c4300006d6882e3ea23750038f8580201000080616985d5b80b807d97220500f83c0ec36d88808fb01e1fc04c8d12005ca594526d48a5c39b727430962a01007e0800f8fcfdffffffffffffa3a3a7a7c2c200000481c746574f7f84010000f0ffffff7f028147474f4f858501fe010000fff00ffcfdffffffffffffa3a3a7a7c2c20000fcfdffffffffffffa3a3a7a7c2c20000fcfdffffffffffffa3a3a7a7c2c20000
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

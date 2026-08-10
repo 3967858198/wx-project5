@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: XBOX ui 04.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 23
+  m_Height: 28
+  m_CompleteImageSize: 320
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 320
+  _typelessdata: 0481ffffffffffff01fe01204d1094c90481ffffffffffff01fe0120f828aa380481ffffffffffff01fe01c09324d9070481ffffffffffff01fe0130fee3383c0481ffffffffffff01fe010084d0204b0481ffffffffffff01fe010010a82f080481ffffffffffff01fe0100003c49920481ffffffffffff01fe0100fce3f88f0481ffffffffffff01fe0100010000000481ffffffffffff01fe0100030000000481ffffffffffff01fe0100020000000481ffffffffffff01fe0130000000000481ffffffffffff01fe01b040f005410481ffffffffffff01fe01c023900f410481ffffffffffff01fe0120080481400481ffffffffffff01fe0100821084100481ffffffffffff01fe012008c24f200481ffffffffffff01fe010000800f000481ffffffffffff01fe01f03c4f1004fcfdffffffffffffffffffffffff0000
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

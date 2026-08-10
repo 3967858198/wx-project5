@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: cursorSword_silver.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 29
+  m_Height: 32
+  m_CompleteImageSize: 480
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 1
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 480
+  _typelessdata: fcfdffffffffffff0000000000000000fcfdffffffffffff000000000000000042097209008066988e0d1df1070000006f80040417fec90129a6031a0000000008499ac410080c3a0e8e800360000000fcfdffffffffffff00000000000000004d82006c8000000000e4306420120000b3844085f0ff3e24f0ffdfcb2eef42001469b102cdf2117e457bb83874febfc2d284f0102304a21abbb6aa8d7737da7871a91209088006891610ceca08000000084906088c56269f907042c20209000008c9ad428e5e1ffef5575f71c9c5272f6291a408ddd4cc1cf0a306fcd7b4cd6861b14448655b0c4d48711c5a00300c0321eb6381af08e051403a07ac5c14190008090e6019f09b7ffaa9a79aaaaaae1252b196ec3bb8174311080e8317e7fbfcd24825c935824fd3801958d25eb999256f80ced420004849292925a5a4949412726982821ed509a0bafc6adff962bc085e50d7a4067361cc0237e194c7e3f3fd08a98dc20cd61c0008c00001b84004e26f80c8d200004843eb6bb7f5b601d0926f80ced600007cab849490a4556b49496f80b6e244fea13b7487eed01dba9bd24d8268685b00249a4823c9249a48a3596f80cad2000070648ecc91393247de9a6f80cad200008824912492449248d2966f80d0d200000000000000000000d80a
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

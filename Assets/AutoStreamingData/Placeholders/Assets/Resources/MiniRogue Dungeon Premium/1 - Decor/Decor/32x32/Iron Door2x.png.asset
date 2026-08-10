@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Iron Door2x.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 576
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 576
+  _typelessdata: 04510f075183f89d1b92950a3fcff33b04510f075183f89d035ac50a3fcff33b04510f075189f89d1b92950a3fcff33b04510f075189f8bd1b92950a3fcff33b04510f075183f89d1b92950a3fcff33bfcfdffffffffffff2b2b2b2b4545ffff04b1360dd90af605446c81faffff0fc304711507511b60b80324befa3cff0f000449c88331331110c4100d02c3300cc36149c8036280240340859020c0300cc30451450dd90bf6011839887a0f7ffeff6f20254f8c420100002025a524000000046902f5792ef7792e1700c8f3c3300c046902f5792ef7792e1700380cffcff36d6802d5e5b6a2aed31e0100feff3f0004692df5792ef7792e170088e3380e0061898301d318644024a60100f67dc3f36f20254f8c424949292925a5240000006d6882054b840cb14264100000f0ffff5d68822524822424c204000080edeb7d61698245689042b14260020000c0ffff51853b3a7c1e0600c600f06c44523a1204b1362d33d84ef23263800a0000e1384f004374307e36bc000000a5a494949204510f43421e5eeea1db85083fcff33b04510f43421e5eeea1db85083fffff3b04510f43421e5eeea1db85083fffff3b04510f43421e5eeea1db85083fffff3b04510f43421e5eeea1db85083fffff3bfcfdffffffffffff212118181b1bfffffcfdffffffffffff212118181b1bfffffcfdffffffffffff212118181b1bfffffcfdffffffffffff212118181b1bfffffcfdffffffffffff212118181b1bfffffcfdffffffffffff212118181b1bfffffcfdffffffffffff212118181b1bffff
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

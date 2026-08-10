@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Iron Fance Moss2x.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 576
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 576
+  _typelessdata: 0431628d88219540881888fa3c0cc33004f155475489309b00488c3acff33c4e048143563056368a000000200100000004717383ae1a5e425ee481b2aceb8ee304e9a715210608c6c78c03c0f30cc330fcfdffffffffffff212118181b1b00006111a441c9b5451793ec0b00cef3300c0491a0210ab5510312fd004af33c0f006111248d0c3f248284ae163e32cc3fcf61d1e341c923f546c05415810cc703000411802120a6443f4419073a4df30cc36d0891015314ff887637000002f03f000471724364f661866eae9efa3cf3fcff0471124bd483169911b588faff0020080471190b51831649445d811a869224490411be2169144d3d12fd003a0c0ff33c0431620d512b35051095814a00f37cff5d807776fafa9e9e00fe01727f7f3800047172d43d44442c840f44c0300cf3ff04f11e0d51eb3503c474960200f30ec304c989c5a8df13a6b8d80000008cc7f36db036ed4ecbce0ede941ebe0200c03904b1078b95276104ec650028cbf23ccf6d48e2676c94085e4c54080080f7ffff040991418824204a0dfe0f38cff30c0004d12ccded6a7b01c41781caff340f00043125477c816048a02d8b0a00d334cf04b10ec7e51570cf01ecd7fafec30000040991418824204a0dfe0f38cff30c005d80579856d08a0a010000727f7f3800fcfdffffffffffff4c4c686885850000fcfdffffffffffff4c4c686885850000fcfdffffffffffff4c4c686885850000fcfdffffffffffff4c4c686885850000fcfdffffffffffff4c4c686885850000fcfdffffffffffff4c4c686885850000
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

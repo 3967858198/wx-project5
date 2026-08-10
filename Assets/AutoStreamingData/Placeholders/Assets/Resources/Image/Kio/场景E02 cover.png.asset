@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "\u573A\u666FE02 cover.png"
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 26
+  m_Height: 32
+  m_CompleteImageSize: 480
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 480
+  _typelessdata: fcfdffffffffffff00000000000075756f40218420cfe8b004000000000000006f40218420cfa44990040000000000006f800002eaeaa4c094949252524a4a49fcfdffffffffffff0000000000007575e340150808ca3a411d60011e4000000071420520d8e401442212894825aaf407e340118405e56c00292925a5a49724fbf3400b41383a00c80f6807e001800180fcfdffffffffffff00000000000075752243052068f300ffa308ff63087fc900fcfdffffffffffff1010060606060000fcfdffffffffffff1010060606060000a242230c0ca2e802007affa0ff0f34fffcfdffffffffffff0000000000007575c142c98120540e70008007003a00e2305e40210c0cdc5100007c988fcfe7f3f96f403184428029800000000000000000d340250e0e5ae800008001d803f9c1fdfcfdffffffffffff00000000000075756f800008ead800000000000040001000ee43270e0e2aec0c00000080006df0a7ee43270e0e30ec0a0000000080181dff6f80000eeab800000000000000000288fcfdffffffffffff0000000000007575fcfdffffffffffff0000000000007575fcfdffffffffffff0000000000007575fcfdffffffffffff0000000000007575fcfdffffffffffff0000000000007575fcfdffffffffffff0000000000007575
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

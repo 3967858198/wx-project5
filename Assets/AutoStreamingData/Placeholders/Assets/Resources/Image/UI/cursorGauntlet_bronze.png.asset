@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: cursorGauntlet_bronze.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 30
+  m_Height: 30
+  m_CompleteImageSize: 400
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 400
+  _typelessdata: 048101b40086004a00000000000000826f800000000688a494949252524a4a4951710fd42800d3dc65eb4632708000006d102463aa940d0048f35d637ef7fdf714491a75d63f43c021421800060800006d480ef3837775c80a00005815110000144906734d80c9db61394746912000006d1069e76a408ed3d29fd3b6feffc60cfcfdffffffffffffc9c998986969ffff714908f31982d0e6f9825e7c39fe325104e9b3114b66fd6fc900b1f81c6384100801fb27db4279fff6ffffffffffff1ffcfdffffffffffffc9c998986969ffff611113078d3cff4a3e82d3baf677ffff7d9075ab74f8e3d211a8c98958737170f1d0ac8153734ec63901aff9f838f9bf43010f93c5307fd2282925e5a414940a6fc09231d35441492f2925a5a494949271090bf37b4930e6fb828000060e15520481ef06abbc4478000000d0f77dd1f76244d7b103c111003303f713ff3b7f235e484a95d3128d1c9e0001d6313bd1f804c9de63af78240cf5f442f8ff4300f004a996eb3e5c370caf24deebfd33f07f0481ef08abbe447a000000f07c5bd0f7
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

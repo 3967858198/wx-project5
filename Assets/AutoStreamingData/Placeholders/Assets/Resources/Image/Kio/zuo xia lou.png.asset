@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: zuo xia lou.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 17
+  m_Height: 32
+  m_CompleteImageSize: 288
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 288
+  _typelessdata: 18c12872aadb6ef3fd24b2c9ccf79bcc18c1e8127adb6ef1fd24a2c9c4e79b4c18c1e812bafb6e7ff82fd2cbf5e1bf5c4dc25c58643a2e7a2f9eb0fef6fb4ff04dc2d854603e34522b5e70eefefa42706fc0b8aec6d8e8cfff6b5bfeffffb72df3c0e8dcfaf60004b1edd9b66cadd7cc4dc26ce474bd08c86c238924d248b2c9528907b1318705421e009ca65fe183df18c1e812badb6ef3f94492c9c5e79b5c18c12852abd76af3f924a2c9c5e7bb4c0431e01694002051729a0a70ddd7454341c36c64753424924822a97ffe89102651c3b48ccb908844a216c96ebec3084402b16855366c196b547f314021c00dec6fc0d8cce89c010000000000000090926fc0d8cce87c85a4901492425248929251690293e758360241c20440040e22d8
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

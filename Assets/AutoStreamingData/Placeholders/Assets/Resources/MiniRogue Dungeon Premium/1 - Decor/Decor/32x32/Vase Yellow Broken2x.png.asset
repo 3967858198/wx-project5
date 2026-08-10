@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Vase Yellow Broken2x.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 576
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 576
+  _typelessdata: fcfdffffffffffffffffaeae707000000489dcf157f7c1af5f55e3c0f3cf03000429c7e3845d7200672940f80d3c0f045d80ffff5d5de1e000fe01723f00000004815757a3a2606000fe0100c3000000fcfdffffffffffffabab515130300000040991f157f7c1afcafc0fc8f3c3300c04698de7c24f057ccd2108c030f3dcf704b113b4ef00ca9ca0ef40c031f7dcf304f13d74e30bfa1ea4ef04f0ffcf3b8c044980b12af3c1af5f55e30000340dc3fcfdffffffffffffabab5151303000005d8057ffa35c61e0000000727f7f38000429f4a17e558dfbd57df0f9ffffcf30046982e3845d720017eca0f3ffe308000481ffff5d5de1e000fe010000300cc3fcfdffffffffffffabab515130300000fcfdffffffffffffabab515130300000fcfdffffffffffffffffaeae70700000fcfdffffffffffffffffaeae70700000fcfdffffffffffffffffaeae70700000fcfdffffffffffffffffaeae70700000fcfdffffffffffffabab515130300000fcfdffffffffffffabab515130300000048157ffa35c61e0000000f07fdffffffcfdffffffffffffffffaeae70700000fcfdffffffffffffffffaeae70700000fcfdffffffffffffffffaeae70700000fcfdffffffffffffabab515130300000048157ffa35c61e0000000f001000000fcfdffffffffffffffffaeae70700000fcfdffffffffffffffffaeae70700000fcfdffffffffffffffffaeae70700000fcfdffffffffffffffffaeae70700000048157ffa35c61e00000001004411000fcfdffffffffffffffffaeae70700000
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sky freedom.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 576
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 576
+  _typelessdata: 72e9a8c4c5bc17222d4a8b12278049291411bfaaa3a3553b63f9bd95ecad9dad7fc0bedfcbfffed3effcffb76ebdda1d6ec82331a4b96f9dfb7e6ff5c1cf155f63099e44771b861415941652624a89696e1080a83ffbbd0908c03f00a8fadfff62f1b18c43f3634deaaedff1060084e25dc27e1fb750d0e43bda8958256291c8f1a812630e4e9cc720d68f767f7f597108013bc11e5e47d0fffffffffffffffd43e9172c54f75d0d026ec3a7429742e36f201fed7527fdcf94949252524a024152495a6c18f32dffbca692bd442aad820cc1de7b7427cda5a805bc0000404d296301f92023bd2c001c4017a8143a4cd30849d2f2df5314150dda0096622b99fe08c9adc4bc578d022a1ce22927fa8a7d6fc0fcd8d4f24949292925a5a4944c816fc006e1dc9eededbdbdb7f7f6df86db41031347164d5b75b538134207346e00526906ec75fe0cbbdadc77f5fd40ef806301cd603757010000400000da8af88542e9166cf7bdd7dee33d100210c00314fcfdffffffffffff7e7e6c6c6a6affff0801db2c67e42d55fa2ffff2277ff6df72014f9e1cf3e328154aa552a9442af74f00fd7ed92cd50e01000000001083006fc0fedad6f2fd5feb6b7dffaff5b27318c1be3aede6e12febfc303fe34ffbc1f18887a16673aeecf2960f3f80497f7f7de848d51aebc3bd68055757575757406fc000dbd6daedcdbdb937f7e6dedc13fcfdffffffffffff7e7e6c6c6a6affff6fc0fed8d4f6f5edbeddb7fb76df86db6d2810e3eba1f08c858759577aefbd0f6d080223def26e76e727ab02020000f8
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: zuo shang rocks.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 31
+  m_Height: 32
+  m_CompleteImageSize: 576
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 576
+  _typelessdata: c1820dc2052b20802611054068a45424f1443de10bc1f6fdf6001001108110885f40ad94750322ffffbfa1090000000042715248cc7fa65ee4009ffd0a2b8df0e2101801780d0ca8d5e0fe8107a0899d5d4445290b9f767ff62289ac6d120600ef45995a0b7c5b4528ab2c63cc5966687d28cec1aae6a666f8979c7fb528b69ef144bd75f3c1f0b377557f2f7f03de3c6e804d0ec9a3dd48f049abf88395e00b080131bcc1b13cfff7af5f720287e6ff1f0287e25ed862f6f0ffdef7be570a005e8855cca5ce645abc8b278a76399e115f00398a4e72693bb94a31b011916088148924d119b7aa4e007fbcc380b3bfb752515101c3135c014000dc825742f3dff1440d3503c90009000100080e017f775dc80955c5f06d28b2c11901005038726f007dc2618b4cfc2889b85171636cc94f480e4124ffcc0a51e692421160ea4a5e880ec3a8e4c48a8656217a6fa799f252b1b10608418490019819780fb000387e40dd0c0608000000000420017a907b5e40473034c000000000f687cfe7f3f96301092b1de985ea1d2e3522bc437c416f80ad6a4efe69b49452b68b66a20cc87131864c39d498bd0a83a17f00ac68b3522901b568a868009e0013888ff183846f800004000048c9d6d21aa4a49494926f80020400004849000000a4a49494925da8061419838947c65c9615e1224e726e88035318873659002080000208e0eb02115fa9b4f2830100a124c192300ed36f8002040000684c8da93135a6c65440fcfdffffffffffff0202020202020000fcfdffffffffffff0202020202020000
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

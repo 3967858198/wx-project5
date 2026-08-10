@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Pile of Books 01 2x.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 576
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 576
+  _typelessdata: fcfdffffffffffff212118181b1b0000fcfdffffffffffff212118181b1b00005d8043423030363600fe01723f000000048143423030363600fe01c0f3000000fcfdffffffffffff212118181b1b0000fcfdffffffffffff212118181b1b00000481437630fa369e000000f0ff2a000004318641d3017d1793f48038cf3ccff36f00e58073fc484929090000809494920411248d0891da403a4e58aaeb3ccff3048143fe31dc3706010000a0aa00f0ff048143fe31dc3706010000008200f0fffcfdffffffffffff3b3b7d7d4f4f0000044980e12512553a4f7df0c9300cf33c6d08223550f803c8d900991cfc0f00000211242bd70708841052604088f00fff0409a235d7070094a89101f0ff0000000409a235d7070094a89101f0ff00000061099187eeb606e04cb8060000ea0f0004c9c243993f111caef18d01000cc33004015bcd5f8a8a72000000f03c000000048983a17283d0a9067d0038cfc3300cfcfdffffffffffffadad2f2f45450000fcfdffffffffffffadad2f2f45450000fcfdffffffffffffe6e64545393900000481cdcd8b8a727200fe01000000300c6d0891a1cd92673a662a000002f03f000489dce31741111069214008003ccff35d805bcd5f8a8a72000000727f7f38005d805bcd5f8a8a72000000727f7f3800fcfdffffffffffffe6e6454539390000fcfdffffffffffffe6e6454539390000fcfdffffffffffffe6e6454539390000fcfdffffffffffffe6e6454539390000fcfdffffffffffffe6e6454539390000fcfdffffffffffffe6e6454539390000
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

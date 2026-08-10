@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "\u573A\u666FA05-cover.png"
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 32
+  m_Height: 21
+  m_CompleteImageSize: 384
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 384
+  _typelessdata: 6f8000004447c1edbdbdb7f7f6dededb2e820000484601102ff3793ffff7ffff3d820000103e0100806454e67f6a95882e820000224601a370c13ffed7fff7ff6f80000036474909292ba5a5a4949492fcfdffffffffffff000000000000a3a36f80000026474149281925b9a4979c92318300000234010080803e10f24aee896f800000000a00000000000000004a89a282000000ee0000e00400c900f029086f800000c844490da921b5a48e9495d2fcfdffffffffffff000000000000a3a36f8000002a4749c929e925b964948492d1820000063e012a2b42e40bc02720c56f8000000034bcce8004000000000000d18200000218014cdf903263c8c006006f800000d0464969292d65a58ed4921afcfdffffffffffff000000000000a3a3fcfdffffffffffff000000000000a3a32e820000a84601f33ffff33fff7e0ffd2e8200004a14013bbff33bbff36e89c02e8200006e46017ffdd77ffdd73f76016f8000004247ededbdbdb7f7f6dede13fcfdffffffffffff000000000000a3a3
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

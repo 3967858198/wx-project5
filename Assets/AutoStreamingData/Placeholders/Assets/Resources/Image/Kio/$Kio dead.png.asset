@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: $Kio dead.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 25
+  m_Height: 22
+  m_CompleteImageSize: 320
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 320
+  _typelessdata: 0429c9f188b0c17f630000f8cff1700c0811bd08600801aab236cf3ff003080008294bf12e8003a22aa5f230ad0ff00f0481fbfa2828282800fe01c0e3300000fcfdffffffffffff7d7d141414140000042989f18de1c1575f70916130d908400829fc249e0c91fff17fabf73ffffb2f142902a3a614740fa17f76bfb8fc3f750451214d9964a206e2c3a532801c3b045d80fbfa2828282800fe0100407f38001481cf28824c0201000000117afe7f7f04e9d9832011800c5c304982c3308c1f14c909301a892c1a950006c2f0403371147172e176a624039ae9954d2bebb489fcfdffffffffffff13130b0b0404000004812768163a081800000010c7f1fe0304895e75ed24a6398619f8090000300414e97cf58d0ea24020104000a8ed1dad044939357b0ea918021ef809000008426f407d85240000000000000080940400
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Rock01 2x.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 576
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 576
+  _typelessdata: fcfdffffffffffff212118181b1b0000048143423030363600fe01300c0000005d8043423030363600fe01723f000000048143423030363600fe01c0f3000000fcfdffffffffffff212118181b1b0000fcfdffffffffffff212118181b1b0000040991918cf1c16f6e7af0390cc30000040143d030de3632010000f0ffff3f0c140177428b4ae58401eab051787f6daf0429cee10844a613850c37f0ff4000000489d5411432dc2063fc0f38cfcff3fffcfdffffffffffff212118181b1b00000481d1d0dede323301fe010000c3300cfcfdffffffffffff68686f6f9999ffff040911c31922c4ecd014fe0900ffcff30429d7018a48b03b0291e9c0f3c3f0ff048181809292e6e600fe0100c33ccff3fcfdffffffffffff4040494973730000fcfdffffffffffff68686f6f9999000004099e019e88f06c6e7af0090002b00c4f00d146df4e3385010000a5a494949204916447f58568a4ea7e8b080134dcf2048181d092dee632010000f0ffffffab048181d092dee632010000f0ffffff83fcfdffffffffffff68686f6f99990000fcfdffffffffffff68686f6f99990000fcfdffffffffffff68686f6f99990000fcfdffffffffffff68686f6f99990000048181d092dee632010000e0ffbf0ad6048181d092dee632010000000020087cfcfdffffffffffff68686f6f99990000fcfdffffffffffff68686f6f99990000fcfdffffffffffff68686f6f99990000fcfdffffffffffff68686f6f99990000048181d092dee63201000080e3388ef3fcfdffffffffffff4040494973730000
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

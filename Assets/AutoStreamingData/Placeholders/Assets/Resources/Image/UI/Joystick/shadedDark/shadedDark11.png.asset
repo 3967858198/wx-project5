@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: shadedDark11.png
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 4
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 576
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 50
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 576
+  _typelessdata: f184081c40dc3ff63c892289220922014d823039800124924822a9248b2a04006f8070704cff4949292925a5a4949c165d821807f89188442212a9489422219d7229098188b000e5f97ade87c31f90036f8000760000484929b9b75b330001004183b83c0280000009008200c8088889fcfdffffffffffff383838383838fffffcfdffffffffffff383838383838fffffcfdffffffffffff383838383838ffff18811c8e00010000000000001000ec0073810e029f6dfb24c901000c0000000032859c28fd2d83ca3832a88c2b83cac4fcfdffffffffffff383838383838fffffcfdffffffffffff383838383838fffffcfdffffffffffff383838383838fffffcfdffffffffffff383838383838ffffa384b8486201efcd2d612dfd04a5607a62e97c41b2a8c4400128000380000c40fcfdffffffffffff383838383838fffffcfdffffffffffff383838383838fffffcfdffffffffffff383838383838ffff6f807090fedd098000000000000000005183a2a9079088e4aa5653a5db4c2603626905413100c40270155d8dffe00ff87189e7a2c9699e046708880606080000fcfdffffffffffff383838383838ffff6f807096fee1290000000000000000001489382829708efa1260909090a040000481439a429a429a00000000feffffffe1820012008034806800c902d200220f14e9252829c092f24901070ac89000c4ef8538d566036f0d3d0d3787e68484507f8092fac05febaff5d7fa6bfdb52a006f8046a60000c06db80db7e136dc9edb6f800042000000000000000000000080
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

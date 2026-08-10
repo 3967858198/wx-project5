@@ -1,0 +1,67 @@
+# ===========================
+# Unity / Tuanjie .gitignore
+# ===========================
+
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# MemoryCaptures
+/[Mm]emoryCaptures/
+
+# Recordings
+/[Rr]ecordings/
+
+# Autostreaming
+/[Aa]uto[Ss]treaming[Dd]ata/Assets/
+
+# Visual Studio / Rider cache
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# MonoDevelop / Xamarin Studio
+*.userprefs
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Codely CLI
+.codely-cli/
+
+# Builds
+*.apk
+*.aab
+*.ipa
+*.unitypackage
+
+# Crashlytics
+crashlytics-build.properties
+sysinfo.txt
+
+# Plastic SCM
+*.ignore
+*.merge
