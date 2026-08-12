@@ -16,7 +16,7 @@ Texture2D:
   serializedVersion: 4
   m_Width: 32
   m_Height: 3
-  m_CompleteImageSize: 96
+  m_CompleteImageSize: 384
   m_MipsStripped: 0
   m_WebStreaming: 0
   m_PriorityLevel: 0
@@ -24,7 +24,7 @@ Texture2D:
   m_DataStreamData:
     size: 0
     path: 
-  m_TextureFormat: 50
+  m_TextureFormat: 4
   m_MipCount: 1
   m_IsReadable: 0
   m_IsPreProcessed: 0
@@ -47,8 +47,8 @@ Texture2D:
   m_LightmapFormat: 6
   m_ColorSpace: 1
   m_PlatformBlob: 
-  image data: 96
-  _typelessdata: 71d19a04bd2cf26203037faa065239a05d84785e21fff712f612f612f67f38005d84785e21fff712f612f612f67f38005d84785e21fff712f612f612f67f38005d84785e21fff712f612f612f67f38000291b1068542416511255f751c000cc0
+  image data: 384
+  _typelessdata: 323232ca434343c73737378e37373790373737903737379037373790373737903737379037373790373737903737379037373790373737903737379037373790373737903737379037373790373737903737379037373790373737903737379037373790373737903737379037373790373737903737378e434343c7323232ca545454ff8f8f8fffb0b0b0ffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffafafafffb0b0b0ff8f8f8fff545454ff323232ff514f4fff3e3c3cff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3d3dff3e3c3cff514f4fff323232ff
   m_StreamData:
     serializedVersion: 2
     offset: 0

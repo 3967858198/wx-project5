@@ -24,7 +24,7 @@ Texture2D:
   m_DataStreamData:
     size: 0
     path: 
-  m_TextureFormat: 50
+  m_TextureFormat: 12
   m_MipCount: 1
   m_IsReadable: 0
   m_IsPreProcessed: 0
@@ -48,7 +48,7 @@ Texture2D:
   m_ColorSpace: 1
   m_PlatformBlob: 
   image data: 16
-  _typelessdata: 0c81fee10148004800282493a48a0012
+  _typelessdata: ff0001821ff81120ffffffffaaaaaaaa
   m_StreamData:
     serializedVersion: 2
     offset: 0

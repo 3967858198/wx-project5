@@ -16,7 +16,7 @@ Texture2D:
   serializedVersion: 4
   m_Width: 8
   m_Height: 32
-  m_CompleteImageSize: 192
+  m_CompleteImageSize: 256
   m_MipsStripped: 0
   m_WebStreaming: 0
   m_PriorityLevel: 0
@@ -24,7 +24,7 @@ Texture2D:
   m_DataStreamData:
     size: 0
     path: 
-  m_TextureFormat: 50
+  m_TextureFormat: 12
   m_MipCount: 1
   m_IsReadable: 0
   m_IsPreProcessed: 0
@@ -47,8 +47,8 @@ Texture2D:
   m_LightmapFormat: 6
   m_ColorSpace: 1
   m_PlatformBlob: 
-  image data: 192
-  _typelessdata: 6f8000004a81018094d45afeefde96926f800000487f018094d45afeefde96926f800000f63c018094d45afeefde96926f800000f43a018094d45afeefde96926f8000009ce6008094d45afeefde96926f8000009ae6008094d45afeefde96926f8000004a8c008094d45afeefde96926f8000004a8a008094d45afeefde96926f8000000c3c008094d45afeefde96926f8000000c3c008094d45afeefde96926f8000000006000000000000000090926f800000000600000000000000009092
+  image data: 256
+  _typelessdata: c0b000b08dad9d2400000000aaaaaaaabfaf00b06d6d9b2400000000aaaaaaaaaa9700b06d6d9d2400000000aaaaaaaaaa9600b06db69d2400000000aaaaaaaa907a00b06d6d9b2400000000aaaaaaaa907a00b08db59d2400000000aaaaaaaa735d00b06db59d2400000000aaaaaaaa735c00b06db69d2400000000aaaaaaaa5640004092b69d2400000000aaaaaaaa553f00b08dad9d2400000000aaaaaaaa392500b06db69d2400000000aaaaaaaa392500b06db69d2400000000aaaaaaaa1f0f00b08db69d2400000000aaaaaaaa1f0f004092b69d2400000000aaaaaaaa0b00004092b69d2400000000aaaaaaaa0a00004092b69d2400000000aaaaaaaa
   m_StreamData:
     serializedVersion: 2
     offset: 0
