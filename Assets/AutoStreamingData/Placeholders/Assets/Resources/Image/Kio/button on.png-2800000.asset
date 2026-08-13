@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: button on.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 12
+  m_Height: 12
+  m_CompleteImageSize: 144
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 12
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 144
+  _typelessdata: 990089154a960449aa52000055350d01cc88039624499224aa520000550000009900722231922c09aa520000555c7040cc884882244802db8e730000a9a9a9019988499224490200ae732842ff555500cc8849900449601b8e7300006a6a6a40aa00126001a1905814a50000090d3555ccaa499224494280d7bd4108aa000055aa008004c810232714a5000060705c55
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

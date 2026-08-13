@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy08Dying-Sheet2x.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 2
+  m_CompleteImageSize: 256
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 256
+  _typelessdata: 484c63335e5c67c64a475355595c707e675f67ba4b4c5f33696979c06b636e835b5e73547c717fc77e707d679d808e80978183918586965097818dab8a7d847a8d84965b9f7f84a084838f589882917a988184948584954d9f7f89968d8388748b8294319a7a805583828e29947e8d1f927c7f288383940d9979831484797e0fb6bfc527c5a1a983b1717b36cbc3c445c0768166a2728313c69eaa65be6a763adbc8c616d675813fb2586c0ce68b9404e1bbb506c2c0ce01eb868b15c7acb307c8aabb00f09e9b09bbc2cf01df99a504e3b5b007b8b7ca00ef929607cdc3c605c8a8ba00f09e9b04bbc2cf01df99a501e3b5b102b8b7ca00ef939601cfc3c501
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

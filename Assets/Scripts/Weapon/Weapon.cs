@@ -98,6 +98,18 @@ public class Weapon : MonoBehaviour
             scale.y = Mathf.Abs(scale.y) *  (currentFaceRight ? 1 : -1);
             transform.localScale = scale;
         }
+        
+        //按R手动换弹
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            TryReload();
+        }
+        
+        //PC键盘/鼠标开火(不依赖UI按钮, 移动端仍用Fire按钮)
+        if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Space))
+        {
+            OnFireButtonDown();
+        }
     }
 
     //开火按钮按下
@@ -135,6 +147,18 @@ public class Weapon : MonoBehaviour
         //真正的开火
         RealFire();
 
+    }
+    
+    //手动换弹(按R触发), 弹夹不满时才执行
+    public void TryReload()
+    {
+        //正在换弹或子弹已满, 不重复换弹
+        if (isReloading || currentAmmo >= clipSize)
+        {
+            return;
+        }
+        
+        StartCoroutine(ReloadBullet());
     }
 
   

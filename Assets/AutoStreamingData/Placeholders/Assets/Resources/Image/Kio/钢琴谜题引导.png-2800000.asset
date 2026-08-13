@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "\u94A2\u7434\u8C1C\u9898\u5F15\u5BFC.png-2800000"
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 24
+  m_CompleteImageSize: 384
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 10
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 384
+  _typelessdata: aa5a00005555951538c620005555aa0058ce21085555aa0079ce41085555aa0079ce41085555aa0038c661085555aa0038c661085555aa000842000055555454aa5200001515151538c617befefebabe17c634a50000aa5717c655ad0000005717c6b6b5000000ad17c6b6b50000001638c6d6bdeaaaaaea28420000545454548a5200001515151538c617bebefefafe79ce75ad559b3b3b5cefb6b555ff2b027def75ad575ee8c838c6f39c979fa8a817c6d6bd80c0c040c7390000545454560c6300001515151538c6f7bdeaeaeaeab6b50421209898987cef652902090909bad6494a00ef5f5d38c60842000e272717c634a580c0c04045290000545656578e7300001515151558cef7bdfefefefef7bd863198a0000038c6c7390902000017c6694addba0000f7bdc739070a000017c6139d4040404082100000545454563084000015955555f7bd21080000bd5538c662100000ff5538c641080000ff5538c641080000ff5517c620000000ff5517c6210880c07f554108000056555555
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

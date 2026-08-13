@@ -34,36 +34,37 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //movement.x = Input.GetAxisRaw("Horizontal"); 
-        //movement.y = Input.GetAxisRaw("Vertical");
+        //WASD/方向键输入
+        movement.x = Input.GetAxisRaw("Horizontal"); 
+        movement.y = Input.GetAxisRaw("Vertical");
         
-        ////防止对角线速度比直线快
-        //movement.Normalize();
+        //防止对角线速度比直线快
+        movement.Normalize();
 
-        ////判断移动动画
-        //if (movement != Vector2.zero)
-        //{
-        //    _anim.SetBool("isWalk", true);
-        //}
-        //else
-        //{
-        //    _anim.SetBool("isWalk", false);
-        //}
+        //判断移动动画
+        if (movement != Vector2.zero)
+        {
+            _anim.SetBool("isWalk", true);
+        }
+        else
+        {
+            _anim.SetBool("isWalk", false);
+        }
         
         //判断人物朝向
         //获取鼠标的世界坐标
-        //Vector3 mouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        ////鼠标位置减去玩家位置x
-        //float dir = mouseWorldPos.x - transform.position.x;
-        ////如果大于0 , 鼠标在玩家右边
-        //if (dir > 0 )
-        //{
-        //    Flip(true);
-        //}
-        //else
-        //{
-        //    Flip(false);
-        //}
+        Vector3 mouseWorldPos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+        //鼠标位置减去玩家位置x
+        float dir = mouseWorldPos.x - transform.position.x;
+        //如果大于0 , 鼠标在玩家右边
+        if (dir > 0 )
+        {
+            Flip(true);
+        }
+        else
+        {
+            Flip(false);
+        }
 
     }
     

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: buttonLong_beige.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 8
+  m_CompleteImageSize: 1024
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 1024
+  _typelessdata: aea387d3b2a78affb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb1a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a689ffb2a78affaea387d2c7b893ffcbb98cffccba8dffccba8dffccba8dffccba8dffccba8dffccba8dffccba8dffccba8dffccba8dffccba8dffccba8dffccba8dffccba8dffccba8dffc9b78bffc9b78bffccba8dffccba8dffccba8dffccba8dffccba8dffccba8dffcbb98cffcbb98dffccba8dffccba8dffccba8dffccba8dffcbb98cffc7b893ffc7b791ffd0bc8cffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd2be8effcbbb93ffcaba93ffd2be8effd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd2be8effcbbb93ffcbbb93ffd2be8effd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd2be8effcbbb93ffcbbb93ffd2be8effd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd3bf8fffd1bd8dffc8b891ffcbba93ffd1bd8dffd2be8effd2be8effd1bd8dffd2be8effd0bc8dffd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd2be8effd1bd8cffcab992ffcdbf9ccfcbba93ffcbbb93ffcaba93ffc8b891ffcbbb93ffc7b790ffcaba92ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcbbb93ffcdbf9ccf
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Chest Closing-Sheet2x.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 6
+  m_CompleteImageSize: 768
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 768
+  _typelessdata: 413841a63b282cff38252eff38252dff423335d63c394a7f3f2d2ef637242eff37242eff3f2d2ef63c394a7f423335d638252dff38252eff3b282cff403841a5403841a53b282cff38252eff38252dff413334d840363cb73b282cff3a272eff3a272eff3b282cff40363cb7413334d838252dff3a272eff3b282cff403841a6392e31b63f2a30ff3f2934ff3e2932ff3e2e2de3332c3492402d2dfd3f2934ff3f2934ff402d2dfd332c34923e2e2de33e2932ff3f2934ff3f2a30ff382d30b6382d30b63f2a30ff3f2934ff3e2932ff3d2d2be7392c2ccf4f3632ffad6e3cffad6e3cff4f3632ff392c2ccf3e2d2de76b4837ffab703cff4f3632ff3a2e32b623191da42d2027ff2f2129ff2f2128ff261b20dc21181b782a1e24fc2f2129ff2f2129ff2a1e24fc21181b78261b20dc2f2028ff2f2129ff2d2027ff23191da523191da52d1f27ff2d1f28ff2e2028ff261b1fe1482b2dc3683f42ffcd9244ffcd9244ff673f42ff532f30c464373be3915c4bffcb914eff7a4848ff5d3233a623191da531222bff33232eff33232dff271c21dc21181b792e2028fc352430ff352430ff2e2028fc21181b79281c22dc35242fff342330ff33232dff23191da622191da635252aff5e4031ff432f2dff291c21e16b3636bf954f53ffdab36cffdab36cff944f52ff843f3db7884241cda5645affc99c6aff985151ff863f3c8e3822259e663d39ff94633bff764b3cff47292cd824191c77342328fd5c3f32ff5c3f32ff352328fd22181b7a352227dd553834ff684733ff4a2f32ff2d1d21a648282b9f754640ffd59048ff945f44ff583033db683230588e4642aaa97251b4a97251b48e4642ac813b363d803b363589433c6e8e4d3f6e863f3a667f39341a6e3430368f473fa0a76045a9985042aa7b39355f5e2e2b2f7b3e39d7af6948ffaf6948ff7b3e39d7572b2a36723835a0a25b47ffbc744aff914d43f667323061753632358e463fa0a36347a9964f43aa813b37617c3733027d3832037b3632057b3632057c3832037d3833007d3833007c3732007c3732007c3833007d383300
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

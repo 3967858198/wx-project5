@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Door Closing-Sheet.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 3
+  m_CompleteImageSize: 384
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 384
+  _typelessdata: 4e272a963f212831381e2700391f27084e272a984a262a7c522b2a9d3c2127023c212702522b2a9b4d272a8f763e2cde733d2a93532d285380442bbc68352ccd8d4a2dd3b8622fffa45631ffb36030ffa6572ef181422dbd97512bff8e4c2cff8e4c2cff97512bff80422dbd914d2bf195502cff89482cff98522bff87462cc8824b2dae75472d4073472e0072462e0f824b2db071412c8c854e2dc58855300e8855300e854e2dc55a312a8a8a4d2de0a55e2ff779442cc1ae6330ff723e2cbd935831ccb16931fe955630f1a86330f8aa6632ed8c5131b5bb6f32ffab6231ffab6231ffbb6f32ff8c5131b5af6932f0b56931ffa35c31ffbb6f32ff9b5b31c47f4b2da073472d3a71472e0070472e0d804c2da4663c2b5e6f402b9c55332a0855332a086f402b9f4a2928344c2a2834653a2a7b5932296c6238296e442527204f2d293b5430285048282836502d28465530294c4c2b2833633a2a715d3529705d352970633a2a714c2b28345d362a60613829755a34296d643a2a7754302946
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

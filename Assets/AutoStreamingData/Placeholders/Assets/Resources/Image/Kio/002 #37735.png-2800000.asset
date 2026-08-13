@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 002 #37735.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 6
+  m_Height: 14
+  m_CompleteImageSize: 336
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 336
+  _typelessdata: 535353008a0000008a0000ff4b0c0cff4b0c0c008a000000535353028a0000ff8a0000ff8a0000ff460d0dff460d0d00535353ff8a0101ff8a0000ff8a0000ff8a0000ff535353ff535353ffffffffd68a0000ff8a0000ff890707ff535353ff535353ff7d7d7dffffffffff8a0101ff7d7d7dff535353ff535353ff7d7d7dffa0a0a0ffa0a0a0ff7d7d7dff535353ff535353ff7d7d7dffa0a0a0ffa0a0a0ff7d7d7dff535353ff535353ff7d7d7dffa0a0a0ffa0a0a0ff7d7d7dff535353ff535353ff7d7d7dff434343ff434343ff7d7d7dff535353ff535353ff7c7c7cff434343ff434343ff7d7d7dff535353ff535353ff7c7c7cff434343ff434343ff7d7d7dfe535353ff535353ff7d7d7dff434343ff434343ff7d7d7dfd535353ff535353ff7b7b7bff7d7d7dff7d7d7dff7d7d7dff535353ff535353ff535353ff535353ff535353ff535353ff535353ff
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

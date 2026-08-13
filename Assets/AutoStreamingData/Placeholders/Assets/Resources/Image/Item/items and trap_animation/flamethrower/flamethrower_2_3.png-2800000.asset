@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: flamethrower_2_3.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 16
+  m_CompleteImageSize: 512
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 12
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 0
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 512
+  _typelessdata: 00004992244992246aba4a811555554400004992244992246aba4a811555554400004992244992246aba4a8115555544ff004992040192246aba4a7945550544ff004982244992246aba4a7904004000ff004112200912206aba4a810000555000004992244992246aba4a810000555500004992244992246aba4a790000555400004992244992246aba4a791544514500004992244992246aba4a791544554400004992244992246aba4a811544514400004992244992246aba4a8105040504ff004992044992246aba4a8110001104ff000102244992246b894a79ffffffffff004992200990046aba4a815555550100004992244992246aba4a815555550000004992244992246aba4a790511401100004992244992246aba4a790011401100004992244992246aba4a810411401100004992244992246aba4a814051405100004992244992246aba4a8115554101ff004912004990046aba4a7955550400ff004992244882246aba4a791515555500004992244992246aba4a791104555500004992244992246aba4a790055405500004992244992246aba4a790055405500004992244992246aba4a7900554055ff004192004992246aba4a7940555055ff004992244092246aba4a810111011100004992244992246aba4a8100000001ff004882244992246aba4a81000000100000499224499224aabaeab9aaaaaaaa
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

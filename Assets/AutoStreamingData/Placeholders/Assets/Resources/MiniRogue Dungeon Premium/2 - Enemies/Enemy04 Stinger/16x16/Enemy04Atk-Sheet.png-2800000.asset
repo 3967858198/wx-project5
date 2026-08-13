@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy04Atk-Sheet.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 3
+  m_CompleteImageSize: 384
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 384
+  _typelessdata: 3b292d1c483232ba1a111e501e191f004333307a261a236a16131b00231d23462a1a267d16121b051e182033371d2da41a131e1e1a171e19361e2ca220142138332a281b473231b318101c3e291e23073f22319e1c111f63211a20004025307f2614259a17131b042f2129362c16299817121c12261b25182d1e278916111c208f6b674e743954ea685b4c86654d4023703547da442934c3402d2c166d3a43a9542e3ced39292a3067384082603042ff3b272e705d383b5a663043fc452d369c76585550763a55e9675b4a797c64592c7c3d58dc69554ca17363521b83475dc16c4d50cd5f54401f7441479054293df736272941673c4058603140f335252967dde0b4128e5d862cc4bea91acdcfa72196688270a7948561bcbb91199c7186868e6b7393b7b98b1da5818b76744260bea9a37f3ab29b9555713960c39f91755acac8aa11905f872cc0b9a31ccad1a60c9a6f8f2bb7a6a122c5ce9e09ab8b9c27a98b9926cbd3a60db79e9a5a90677b72b6b8892ab8a39a4d8653748ab3b28741
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

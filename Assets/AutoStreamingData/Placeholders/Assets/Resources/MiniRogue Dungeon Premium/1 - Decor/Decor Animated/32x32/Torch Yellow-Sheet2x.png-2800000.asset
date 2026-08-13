@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Torch Yellow-Sheet2x.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 6
+  m_CompleteImageSize: 768
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 768
+  _typelessdata: ff537800d447658c5e3231ffa64050cdff527715ff527700f34f724679393cf57a353ef5f34e7246ff527700ff527715a64050cd5f2f33ffd446658cff537800ff527800d448648c5f3132ffa73b52cdff527715ff527700f34e72467a353ef57a353ef5f34e7246ff527700ff527715a73b52cd5f3132ffd448648cff527800ff527800ef536b8ce5884cffe8605fc4fe507714ff527700f84f7343e57554eee7685bf0f94e7443ff527700fe507714e8605fc4e87556fff04c6e85ff527700ff527800ef536a84e77a54ffea5167c3fe517714ff527700f84e7443e7655deee66d58eef84f7343ff527700fe517714ea5167c3e77a54ffef536a84ff527800ff527700ff54762afd636e93ff557633ff527700ff527700ff527701fe5a7377fe5c728fff527703ff527700ff527700ff557635fd6070beff537728ff527700ff527700ff527713fe597366ff54762eff527700ff527700ff527804fc557340fc567342ff527704fd517600ff527700ff54772aff5a7453ff537812ff527700ff537800ff537800fc4f7600f24a6e00f84e7200ff537800ff537800ff527810ff527718ff527700ff537800ff527700ff52770aff517756ff52770dff527700ff527700ff527711ff527773ff527710fd517500f64c7100f64d7101e03f622dc5305009c9325300cc345500f34b6f00f44c7000e7436700e9456800fb507500dc3e6000dd3e6000c8325201b4264501c12e4e00dc3d5f00ea466900e3416400d2385900ce365600ec476a00fa4f7400ff527701ff527700ff527700ff527700ff527700ff527705ff527712ff537801ec476a00b9294800b7284700b3264441ac213f15ac213f00ad224000bb2a4a00b7284701af234109b0244201d1375800a4203c00ad224000ac213f09ac224011ac224000ad224000b1244300ae224002ac213f1aac213f02b2254300c32f4e00f24a6e00ff527700ff527700ff527700ff527700ff527700ff527700ff537800e9456800af234100ac223f00ad224000ad224000ad224000ad224000ac223f00ac224001ad224011ae2240018c1c3400
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: xia mian lou.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 6
+  m_CompleteImageSize: 768
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 768
+  _typelessdata: 413337f15c4640ff5b4841ff5d463fff5a4740ff5b463fff5b4740ff5b4840ff36292682130f0f001410100014101000141010001410100014101000130e0e002c2b2b505c6163fb515656ff585d5eff5b6062ff595e60ff515657ff5b6061ff5c4f4eff5c473fff5b4740ff5c473fff594740ff5c463fff5b4841ff513e38ff3a2b2ddf57433df65b4a43ff5d473fff5b4a42ff5e4942ff5d4942ff5b4a43ff34292785130f0f001410100014101000131011001210110012101100110f1000252326504d4c52fb47464cff4a4a50ff4d4d53ff4d4d53ff4c484eff494044f34c3b3ae65c4941ff5c4941ff5c4740ff5c4b43ff5e4841ff5c4b43ff4f3f3aff312629cb4c3b3af3584644ff5b4948ff51413fe53e312d9b3d2f2b983e312d9c271e1d4f131010001410100014101000131011001110120011101200100f110023212550423f47fb413e47ff413d46ff423f47ff423f48ff4c444cff392b2fe93b2d2ed1584645ff594645ff5a4848ff463734bb3c2e2b963e312d9a382b289a3e3035f937282ce63c2b2e8d4b424b923d3840651a171900130f0f00140f100014101000141010001410100014101000121012001110120011101200100f110022212550434049fb434048ff423f48ff444049ff444149ff504953ff4b3d43fc36292cf73c2c2fc4403237864f4953a029252a2615111200130f0f00141010005b515bf63a32387f28212500302b30002c2a30001c191b00141010001410100014101000141010001410100013101100111012001110120011101200100f110027252a505d5864fb615c69ff625d6aff615c69ff615c69ff594f59ff574a52ff514851da2b25292d2b232700322f35022523280016121300141010001410100038343a4a2d2b310d252227002f2a30002c292f001b181a0014101000141010001410100014101000130f10000f0e0f000f0e0f000f0e0f000f0e0f000d0d0e0024222650595460fb5c5763ff5c5763ff5c5763ff5b5561ff58525def4640489836333b2a27252b0228242800312e340025222700161213001410100014101000
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Dungeon_Tileset.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 1024
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 12
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 0
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 1024
+  _typelessdata: e30ae97b54e9fb3aa98ac328ddb1dd557e004fb6044e225a86498320b71657bab7004db114c9c973e982a420f7b70df7bc0337fcc3c9e3b22952c428454556fdb200077334f1633a6872a32079e3e27fc1005ac806495cc76f63a3289f1fd5d7da00cca9184eecfc0d6b8320b634d7f7b402bf7f82c91ff3a772a4286dcd557dff22067f3a240900e861e5287179ffffff3bd851472d0900cb6ac530181ed5ffff51b8b04c2c0900aa72e538b4a455ffff321566aa7db3a16c932539c9cd75c9ff00057f3a49923e0c73a3287379555def005856c77fce9e4ca4832098df55dfff000be7dc31f902cc5aa32024d75555ff0e2e9c372409000d8be5304d7555f5ffff49922449922427412739ffffffffffff49922449922427412739ffffffffffff49922449922427412739fffffffff80d9ab83f220ff1ca72c42883577b63ea00a793c4499413cb62a32871719da5ff0076da96000000eb72c3289eff0a8aff1623b092600ad64962a3285456d8f8ff40004000061000496a8520fdab0202ffff499224499224e961a428ff5cf800ffff499224499224c8598320ff55aa00ffff499224499224c8598420ff952a00ff3e6002000000000962a4285a70e020ff3ef90c28000220095a83208d8d8a80d66b13b0b44bbbb4a651053100f6acb48000b09b6449944445418320fc959595cd07050031a88cf32862a32002be7676ffff499224499224c9598320fff50d8dffff4992244992240962c42855ff00ffffff499224499224e959c42855ff00ffffff4992244992240962c42855ff00ffff48000220000260e959a3205d5f5cdce86b8bbbb88b0b09e8510439f6f6f60ad6004998a4492809a74983209595d500fd15f308a062a36dc751c428f4e87caaffff499224499224e95983208d8d8d8dffff49922449922427412739ffffffffffff49922449922427412739ffffffffffff49922449922427412739fffffffffff8000060c00200095aa3281c9cdcdcffff499224499224a96a273920a8ff55fff10080018800000b732741aa0ef755ffb000b0ba740e00686a2739fe8aab55ffff499224499224e95983208d8d8d8dffff49922449922427412739ffffffffffff49922449922427412739ffffffffffff4992244992242739063980808080ffff499224499224e961a428dcdcdcdcffff49922449922427412739ffffffffffff49922449922427412739ffffffffffff49922449922427412739ffffffffffff499224499224e9598320cd8d8d0dffff499224499224e961e53055ffaa00ffff4992244992240962e53055ffae08ffff499224499224e959e53055fdaa00ffff499224499224e959a420dcdcdcdcffff49922449922427412739ffffffffffff49922449922427412739ffffffffffff49922449922427412739ffffffff
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

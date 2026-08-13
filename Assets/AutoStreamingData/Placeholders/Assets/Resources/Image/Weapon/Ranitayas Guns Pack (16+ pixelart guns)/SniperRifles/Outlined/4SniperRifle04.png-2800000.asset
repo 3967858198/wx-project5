@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 4SniperRifle04.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 10
+  m_CompleteImageSize: 1280
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 1280
+  _typelessdata: ffffff00ffffffffffffff00ffffff00ffffff00ffffff00ffffff00ffffffffffffffffffffffffffffffffffffff00ffffffffffffffffffffffffffffffffffffffffffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffffffcd683dffffffffffffffffffffffff00ffffff00ffffffff2e222fff625565ffcd683dfffbb954ffffffffff2e222fff2e222fff3e3546ff625565ff625565ffffffffffffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffffffcd683dffcd683dffcd683dffffffffffffffffffffffffffffffffff625565ffcd683dfffbb954ffcd683dffcd683dffcd683dffcd683dffcd683dffcd683dffffffffffffffffffffffffffffffff00ffffff00ffffff00ffffffffffffffffffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffffffcd683dffffffffffcd683dffcd683dffe6904effe6904effe6904effe6904effe6904effe6904effe6904effe6904effe6904effe6904effe6904effe6904effe6904effcd683dffcd683dffffffffffffffffffffffffffcd683dffcd683dffffffffffffffff00ffffff00ffffff00ffffffffffffff00ffffff00ffffffffcd683dfffffffffffffffffffbb954fffbb954fffbb954ffe6904effe6904eff3e3546ff3e3546ffe6904efffbb954fffbb954fffbb954fffbb954ffe6904efffbb954fffbb954fffbb954ffe6904effe6904effcd683dffcd683dffcd683dffcd683dffffffffffffffffffffffffffe6904effffffffffffffff00ffffffffe6904efffffffffffbb954fffbb954fffffffffffffffffffbb954ffe6904efffbb954fffbb954ffe6904effcd683dffcd683dffcd683dffcd683dffe6904efffbb954ff3e3546fffbb954ff3e3546fffbb954ff3e3546fffbb954ff3e3546fffbb954ffe6904effe6904efffbb954fffbb954fffbb954fffffffffffffffffffbb954fffbb954fffbb954fffbb954fffbb954fffffffffffffffffffffffffffffffffffffffffffbb954ff625565ff625565ff625565ff625565ff625565fffbb954ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00ffffff00ffffffffffffffffffffffffffffffffffffffffffffff00ffffff00ffffff00ffffffff3e3546ff3e3546ff3e3546ff3e3546ff3e3546ff3e3546ff3e3546ff3e3546ff3e3546ffffffffffffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffffff3e3546ff625565ffffffffffffffffff3e3546ff3e3546ff625565ff7f708aff3e3546ff7f708affffffffffffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffffffffffffffffffff00ffffff00ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

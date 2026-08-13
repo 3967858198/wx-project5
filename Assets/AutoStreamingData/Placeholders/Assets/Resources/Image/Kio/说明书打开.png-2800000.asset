@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "\u8BF4\u660E\u4E66\u6253\u5F00.png-2800000"
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 24
+  m_CompleteImageSize: 384
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 10
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 384
+  _typelessdata: 00000000aaaaaaaa00000000aaaaaaaa00000000aaaaaaaa45290000555555e386310000555555e200000000aaaaaaaa00000000aaaaaaaa00000000aaaaaaaa00000000aaaaaaaa45290000551595558631000055a0b8556f6b0000ffffbf2d117c00007ffffe78663100005502aa55652900005554565500000000aaaaaaaa00000000aaaaaaaa00000000aaaaaaaa2e630000d5353535518c6821ade0feaaf07b07197a8abfaa8f6b010055565e5800000000aaaaaaaa00000000aaaaaaaa00000000aaaaaaaaa63100005555f5056a4a20082529d7be7063c931ff00fd8d8f6bea31550abff0ad5220007a60f8a02842000055555f5800000000aaaaaaaa00000000aaaaaaaaa63100009535555586312000de38ad0d4a4204210dcaf5f58c4a4529607a7d7d86310000ba305858652900005e5c555500000000aaaaaaaa00000000aaaaaaaa00000000aaaaaaaa00000000aaaaaaaa8631000025b5555565290000785a555500000000aaaaaaaa00000000aaaaaaaa00000000aaaaaaaa
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

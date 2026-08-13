@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hero01 Mage Idle2x-Sheet.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 3
+  m_CompleteImageSize: 384
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 384
+  _typelessdata: 1d232d512d424cc9243a473325313b95314953aa23364130364950cc3658636e263b4663405154d72c4b583a2c3d45a33d5b62b1243a462e2c3b43c62d49546b202e3a4f2d424bc9243a473325313b95314953aa23364130364950cc3658636e263b4663415456d72d4c583a2c3d45a33d5b62b1243a462e2c3b43c630525e6e3557615c5d8887de407d8b2b477880a25a9498a73c7f9024568f93c44c95a1534793a44657989ca6408c9e1950919a8a58989d903b768527568689d74d8e995f386470585d8786de407d8b2b477880a25a9498a73c7f9024568f93c44c95a1534793a446599c9fa6408d9f1950919a8a58989d903b768527568688d75098a3634d9baa1c53a8ad444298ad0758aeb92a469da81c459cb1055bb2b61d3d94a50551a6b70454abaf073f95aa0060b6bb0a48a0a80b4397ab055ab0b52c3d92a20b4d9eae1b53a7ad444298ad0758aeb92a469da81c459cb1055bb2b61d3d94a50551a6b70454abaf073f95aa0060b6bb0a48a0a80b4397ab055ab0b52c3c93a30d
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

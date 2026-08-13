@@ -390,6 +390,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "\u4F60\u77E5\u9053\u54EA\u91CC\u6709\u6BD4\u8F83\u597D\u7684Unity\u89C6\u9891\u6559\u7A0B\u5417\uFF1F"
+  m_enableAdvanceTextProcess: 0
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a771aa0fa066ec64fa29dbaa8a9f37be, type: 2}
   m_sharedMaterial: {fileID: -3968315573801627200, guid: a771aa0fa066ec64fa29dbaa8a9f37be, type: 2}
@@ -736,6 +737,7 @@ CircleCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 278002155}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -759,9 +761,9 @@ CircleCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
   m_Radius: 0.15324126
 --- !u!61 &278002158
 BoxCollider2D:
@@ -771,6 +773,7 @@ BoxCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 278002155}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -794,7 +797,8 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 0
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -805,7 +809,6 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
   m_Size: {x: 0.16, y: 0.16}
   m_EdgeRadius: 0
 --- !u!212 &278002159
@@ -826,7 +829,6 @@ SpriteRenderer:
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
   m_virtualGeometry: 0
-  m_virtualGeometryShadow: 0
   m_ShadingRate: 0
   m_ForceDisableGRD: 0
   m_RenderingLayerMask: 1
@@ -1084,6 +1086,7 @@ BoxCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 291998732}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -1107,7 +1110,8 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 0
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -1118,7 +1122,6 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
   m_Size: {x: 0.16, y: 0.16}
   m_EdgeRadius: 0
 --- !u!58 &291998736
@@ -1129,6 +1132,7 @@ CircleCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 291998732}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -1152,9 +1156,9 @@ CircleCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
   m_Radius: 0.13098568
 --- !u!95 &291998737
 Animator:
@@ -1197,7 +1201,6 @@ SpriteRenderer:
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
   m_virtualGeometry: 0
-  m_virtualGeometryShadow: 0
   m_ShadingRate: 0
   m_ForceDisableGRD: 0
   m_RenderingLayerMask: 1
@@ -1773,7 +1776,6 @@ MeshRenderer:
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
   m_virtualGeometry: 0
-  m_virtualGeometryShadow: 0
   m_ShadingRate: 0
   m_ForceDisableGRD: 0
   m_RenderingLayerMask: 1
@@ -2556,7 +2558,6 @@ MeshRenderer:
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
   m_virtualGeometry: 0
-  m_virtualGeometryShadow: 0
   m_ShadingRate: 0
   m_ForceDisableGRD: 0
   m_RenderingLayerMask: 1
@@ -3973,6 +3974,7 @@ BoxCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1160989317}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -3996,7 +3998,8 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 0
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -4007,7 +4010,6 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
   m_Size: {x: 0.16, y: 0.16}
   m_EdgeRadius: 0
 --- !u!58 &1160989321
@@ -4018,6 +4020,7 @@ CircleCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1160989317}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -4041,9 +4044,9 @@ CircleCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
   m_Radius: 0.13098568
 --- !u!95 &1160989322
 Animator:
@@ -4086,7 +4089,6 @@ SpriteRenderer:
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
   m_virtualGeometry: 0
-  m_virtualGeometryShadow: 0
   m_ShadingRate: 0
   m_ForceDisableGRD: 0
   m_RenderingLayerMask: 1
@@ -4482,6 +4484,7 @@ BoxCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1323523185}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -4505,7 +4508,8 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -4516,7 +4520,6 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
   m_Size: {x: 0.16, y: 0.16}
   m_EdgeRadius: 0
 --- !u!114 &1323523188
@@ -4576,7 +4579,6 @@ SpriteRenderer:
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
   m_virtualGeometry: 0
-  m_virtualGeometryShadow: 0
   m_ShadingRate: 0
   m_ForceDisableGRD: 0
   m_RenderingLayerMask: 1
@@ -4908,7 +4910,6 @@ SpriteRenderer:
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
   m_virtualGeometry: 0
-  m_virtualGeometryShadow: 0
   m_ShadingRate: 0
   m_ForceDisableGRD: 0
   m_RenderingLayerMask: 1
@@ -5000,6 +5001,7 @@ CircleCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1564907580}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -5023,9 +5025,9 @@ CircleCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 0
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0.06679422, y: 0.19960484}
-  serializedVersion: 2
   m_Radius: 0.11348179
 --- !u!50 &1564907586
 Rigidbody2D:
@@ -5603,6 +5605,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: Fire
+  m_enableAdvanceTextProcess: 0
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6263,6 +6266,7 @@ BoxCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1835563544}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -6286,7 +6290,8 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -6297,7 +6302,6 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
   m_Size: {x: 0.16, y: 0.16}
   m_EdgeRadius: 0
 --- !u!114 &1835563547
@@ -6357,7 +6361,6 @@ SpriteRenderer:
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
   m_virtualGeometry: 0
-  m_virtualGeometryShadow: 0
   m_ShadingRate: 0
   m_ForceDisableGRD: 0
   m_RenderingLayerMask: 1
@@ -7151,7 +7154,6 @@ MeshRenderer:
   m_RayTracingMode: 2
   m_RayTraceProcedural: 0
   m_virtualGeometry: 0
-  m_virtualGeometryShadow: 0
   m_ShadingRate: 0
   m_ForceDisableGRD: 0
   m_RenderingLayerMask: 1
@@ -7736,6 +7738,7 @@ BoxCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2051050021}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -7759,7 +7762,8 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -7770,7 +7774,6 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
   m_Size: {x: 0.16, y: 0.16}
   m_EdgeRadius: 0
 --- !u!114 &2051050024
@@ -7830,7 +7833,6 @@ SpriteRenderer:
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
   m_virtualGeometry: 0
-  m_virtualGeometryShadow: 0
   m_ShadingRate: 0
   m_ForceDisableGRD: 0
   m_RenderingLayerMask: 1
@@ -7930,7 +7932,6 @@ SpriteRenderer:
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
   m_virtualGeometry: 0
-  m_virtualGeometryShadow: 0
   m_ShadingRate: 0
   m_ForceDisableGRD: 0
   m_RenderingLayerMask: 1
@@ -7991,6 +7992,7 @@ BoxCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2085699235}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -8014,7 +8016,8 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -8025,7 +8028,6 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
   m_Size: {x: 0.16, y: 0.16}
   m_EdgeRadius: 0
 --- !u!114 &2085699240
@@ -8073,6 +8075,7 @@ BoxCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2092912297}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -8096,7 +8099,8 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0.09911652, y: -0.1038364}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -8107,7 +8111,6 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
   m_Size: {x: 0.20000002, y: 0.21000001}
   m_EdgeRadius: 0
 --- !u!114 &2092912299
@@ -8166,7 +8169,6 @@ SpriteRenderer:
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
   m_virtualGeometry: 0
-  m_virtualGeometryShadow: 0
   m_ShadingRate: 0
   m_ForceDisableGRD: 0
   m_RenderingLayerMask: 1
@@ -8273,7 +8275,6 @@ SpriteRenderer:
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
   m_virtualGeometry: 0
-  m_virtualGeometryShadow: 0
   m_ShadingRate: 0
   m_ForceDisableGRD: 0
   m_RenderingLayerMask: 1
@@ -8319,6 +8320,7 @@ BoxCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2093568152}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -8342,7 +8344,8 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -8353,7 +8356,6 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 --- !u!114 &2093568156
@@ -8460,6 +8462,7 @@ BoxCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2132917203}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -8483,7 +8486,8 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 0
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
@@ -8494,7 +8498,6 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  serializedVersion: 2
   m_Size: {x: 0.16, y: 0.16}
   m_EdgeRadius: 0
 --- !u!58 &2132917206
@@ -8505,6 +8508,7 @@ CircleCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2132917203}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -8528,9 +8532,9 @@ CircleCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeLayer: 0
   m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
   m_Radius: 0.13098568
 --- !u!95 &2132917207
 Animator:
@@ -8573,7 +8577,6 @@ SpriteRenderer:
   m_RayTracingMode: 0
   m_RayTraceProcedural: 0
   m_virtualGeometry: 0
-  m_virtualGeometryShadow: 0
   m_ShadingRate: 0
   m_ForceDisableGRD: 0
   m_RenderingLayerMask: 1
@@ -8770,9 +8773,9 @@ CanvasGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4857515029631120670}
   m_Enabled: 1
-  m_Alpha: 1
-  m_Interactable: 1
-  m_BlocksRaycasts: 1
+  m_Alpha: 0
+  m_Interactable: 0
+  m_BlocksRaycasts: 0
   m_IgnoreParentGroups: 0
 --- !u!1 &1911006722270743066
 GameObject:

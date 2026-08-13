@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lamp Yellow-Sheet.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 3
+  m_CompleteImageSize: 384
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 384
+  _typelessdata: 4f4c4f2c4240478b5e5a54075a56506c5a56506b6f6a590c504d4c976762553267635832504d51976f6a5a0c5a57546b5a57546b6f6a5a0c504d51976763573267635832504d50976f6a5a0c5a57546b5b57546c625d55074240478b4f4c4e294f4c4f24434047835350510348464b5948454a5953505103434048834f4c4e26d0c075719b8761eaecdd7e42b9a770ceb9a76fcdf3e48059a08d68f8dccb798cdccd858ca0907cf8f3e48659b9aa80cdb9aa80cdf3e58659a0907cf8dccd848cdccd838ca08f77f8f3e58659b9a97ccdbaaa7eceeedf80429b8761ead2c2756dd2c276569b8761d6e8da7d21b2a06aa0b2a06aa0e8da7d219b8761d6d0c07559e9da7e47bbb074a2fceb8222cfc3799bcfc3799afbeb8231bbb074c4eadb7e5deadc855dbbb281c4fbeb8531cfc4839acfc4839afbeb8531bbb281c4eadc855deadc855dbbb281c4fbeb8631cfc4839acfc4839bfceb8322bbb074a2ebdb7e44ebdb7e30bbb07487f5e5800fcfc27862cec17862f6e6810fbcb17487e9da7e33
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 4Shotgun04.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 9
+  m_CompleteImageSize: 1152
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 1152
+  _typelessdata: fffefc3bfcf3ddf5e8dcdbffe7dbdbffebe1e1ddffffff28ffffff57f9f8f9ffe5e1e4ffedeaedc1ffffff17ffffff00ffffff00ffffff12ffffff2cffffff2affffff2bffffff2affffff2affffff2cffffff0fffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00fffbf1d8f0c356fd95524dff914d4cff9f6463f8e7dbdbd4e8dddcddcfc1c4ff7e6878f49f8e9bd7f1eef09dffffff25ffffff25f5f0f072e6dadadae7dbdbd4e7dbdbd5e7dbdbd4e7dbdbd4e6dadadaf6f2f268ffffff09ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00fffbeffff2b735ffaa3a2fffa8352fffa43934ff924e4dff924e4cff884d4fff694758ce6f506084a3939ff6eae7ebd3ebeaeed3bda2a4e6884746ff924e4dff924e4dff924e4dff924e4dff874646ffd4bfbfe9ffffff61ffffff27ffffff2bffffff2bffffff2bffffff2affffff2bffffff2bffffff2bffffff2bffffff2afffbeffff3b835ffb53d31ffb33831ffb13831ffa8352fffa8352fff9c3430ff783032f3733940e0725b6dff8c7c8eff8e8094ff77515bff872f2effaa352fffa8352fffa8352fffa93630ff872825ffc69d9cffede5e7e2e6e2e5d4e6e2e5d5e6e2e5d5e6e2e5d5fae5dbd4eae3e3d5fae6dbd5e9e2e3d5e7e3e6d5fdfdfdd4fffbf1fff5c457ffc25d53ffc05953ffc05953ffc05953ffc05a54ffba514bffa8342dff963e40ff716075ff7f7289ff756279ff6b5165ff894850ffac413fffaa4140ffaa4140ffab4140ffa23e3effb05554ff966e79ff857284ff867283ff867283ff857283ffe5864eff9b7677ffe8874cff94757bff8b7889fff6f4f5fffffefcd4fdf3ddd4f3dfddd5f2deddd5f2deddd5f2deddd4f3e0dfd4e6bebcdfc0564fffb16467ff9894a5ff9c9ba6ff827184ff7f748aff897689ff947987ff947987ff947987ff947987ff947987ff947987ff867689ff80748aff80748aff867b8eff877c90ffe39131ff967a76ffe4912eff957f81ff867b90fff5f4f6ffffffff2affffff2affffff2bffffff2bffffff2bffffff2affffff28fcf7f753f2dddcd8f0e0e1d5ebebeed5ededefd3cdced3e5a4acb6ffb4bec1ffc5d1cdffc4d0ccffc4d0ccffc4d0ccffc4d0ccffc5d1cdffb1babfffa6aeb8ffa6afb8ffbdc8c7ffc4d0cdfff0c763ffb6b3a4ffedc25effc9cdbcff9faab3fff7f8f8ffffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff0affffff2bffffff2bffffff2bffffff26f9fafa6ceef0f2daf2f5f4d5f6f9f7d4f6f9f7d5f6f9f7d4f6f9f7d4f6f9f7d5f6f9f7d5f1f4f4d5eef1f2d5eef1f2d5f4f7f6d5f6f9f7d5fcf6e1d4f1f2eed5fcf4e0d5f4f7f2d6b7c2c7f9f8f9fad8ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff10ffffff2cffffff2bffffff2affffff2bffffff2affffff2affffff2bffffff2bffffff2bffffff2bffffff2bffffff2bffffff2bffffff2affffff2bffffff2bfeffff32f1f3f4e1fefefe3b
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

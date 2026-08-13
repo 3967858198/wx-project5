@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gold 02-Sheet.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 5
+  m_CompleteImageSize: 640
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 640
+  _typelessdata: f1efd202d3844001d37f321dd78e4761cf742a21e0b17d02f1f2d703d78f4c06d88f445bd17c3438ce722706dca56e03f2f5da00f0eed13ed6905052cf742a10ce722702db9f6501f4fce41df5ffe961f6ffeb21e4c39602cf742a03d4853e06e3b87d5bf6ffec38eee6c606d27f3a03cf752a00d6893d3ed4863f52cf752b10f3f6dc42d7935442d4813426dc9d5569d7914e81e2b98828f5fde65ae3bc881fda93484bdc9e5c96d27c322ee3b67959f5ffe928f2f2d636e4b98089d3843e54d78b3f40d78e4942deac7526f1efd169f5ffea81e7c89528d890495ad27c301fe2b06f4bf4f6d496eee5c12edc9c5559d27e3528d78a3e36dea25d89d3843f55f5ffe925e0b17c60dc9d5758d78d464dd78e4858e3bc8d12f5fee65bede4c357d9995b4dd8924a61d381381ce1aa6043f3f7db5af4fce455e9cd9a57d587413bda934324da954d60dda25d58e7cca24df4fde558e8ca9512dd9d525bda954e57d9934e4de4bc8461efe5c11ce0a55b43d88f485adc9f5c55d78e4557d487413cf6ffeb0fe9d3ab29d9924a0bdfa35b6edca1634be1b58307f5ffe929edddb30ddd9e5547dea8686ed895530ee3ad5e1ef6fcdb1df5fee81ff4f8dc7eead4ac26e2ad650fe7bd7a29d9954e0beacc946ef6ffec4bedddb007e8bd7429dc9e5c0ddc9a4f47e1b2766ee6c5950ee5b5691ee2b06f1dda93491fe0a8647edca26827f6ffeb00e9d4ad00d88e4101e9c07706da9b5e00e0b38000f5ffea00ebd8ad00e4b16205e1b17503d68d4900e4ae5f00f6fddc00f5ffe903f5ffe805ebdcb800e2af6800e7c07d00d88e4201edce8a06f6ffeb00e9cd9b00e8bf7600da9a5600e3ac5d05e3b97f03e1b68200e5b56900e1af7000dc974703e8c18005d8975a00
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

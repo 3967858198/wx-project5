@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lamp Yellow Big-Sheet2x.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 5
+  m_CompleteImageSize: 640
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 640
+  _typelessdata: 2a2a421728293f502a2a420129294036292940362a2a420128293f50292a4115292a421528293f502a2a420129294036292940362a2a420128293f50292a4115292a421528293f502a2a420129294036292940362a2a420128293f50292a4115292a421528293f502a2a420129294036292940362a2a420128293f50292a4217202232182325365d232539002022323d2325393d212336002123335d23253a16202233162225365d222439002022313d2325393d212335002123335d23253a16202233162225365d222439002022313d2325393d212336002124335d24263a16212333172325365e242639002124323e2526393e232536002224335e25273c1862605a1851515758747062016c695c486f6b6048827d630563605a687c77631f7975611f64615f68837e65056c695e486f6c6348827d630563605e687c78651f7975611f64615f68837e65056c695e486f6c6348736f60015150555862605e17525154134647535253535700494951364b4c5636525256004646515251525814d8c8796a9f8c64ddf3e4813ebeac6fc7beac6fc6f7e78254a59266f1e0cf7a85e0d18485a59475f1f7e88754beae7cc6beae7cc6f7e88854a59475f1e0d18385e0d18485a59475f1f7e88754beae7cc6beae7cc7f3e4823e9f8c64ddd8c87867d1c27550988762c9e4d67c1eaf9f6a96af9f6a96e4d67c1e998762c9cdbf7453eddd7f3cc7bb768afceb821dd7ca7a81d7ca7a80fceb822ac7bb76a3edde7f4eeddf854ec7bc81a3fcec852ad7cb8380d7cb8380fcec852ac7bc81a3eddf844eeddf844ec7bc81a3fcec852ad7cb8380d7cb8381fceb831dc7bb768aeede7f3aeedf7f29c7bb7672fdec830dd8cb7a53d8cb7a53fdec830dc7bb7672edde7f2b
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

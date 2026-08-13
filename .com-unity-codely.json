@@ -1,10 +1,10 @@
 {
-  "unity_port": 50145,
-  "stream_port": 50207,
-  "created_date": "2026-08-11T21:06:09.151Z",
-  "project_path": "E:/MyWXMiniGame5/project5/Assets",
+  "unity_port": 56373,
+  "stream_port": 51033,
+  "created_date": "2026-08-12T20:33:50.772Z",
+  "project_path": "D:/WorkSpace/WXMimiGame5/wx-project5/Assets",
   "reloading": false,
   "reason": "ready",
-  "seq": 5163,
-  "last_heartbeat": "2026-08-12T21:05:09.615Z"
+  "seq": 31542,
+  "last_heartbeat": "2026-08-13T02:13:53.524Z"
 }

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Prisioner2x-Sheet.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 4
+  m_CompleteImageSize: 384
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 3
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 384
+  _typelessdata: 5b54614c44515a53605148545148545a54604d4450564f5b564f5b4d44505a54605148545148545a53604c4552554e5b554e5b4c45525a53605048555048555a53604d4552564f5b554e5b4d45525a53605048555048555a53604c44515b54618479807862657c747e79696d78676c7c747f796467796e767b6f777864667b747e7d6a6d7b696c7c747f7e66667b6f767c70777e66657c747e79686c78676c7c747f7963667a6e767b6f777863657c747e79686c78676c7c747f786365837880615d706255625b596f5e55665e55655b596f6155635b576a5b576b6155635b596f5d56655d55655b596f6256635b576a5c586b6156625b596f5f56665e55655b596f6256635b576a5c576b6255635b596f5f56665e55655b596f625563615d70838b9d727b8f878ea0778093778093878ea0727b8f80889a80889a727b8f878ea0778093778093878ea0727b8f80889a80889a727b8f878ea0778093778093878ea0727b8f80889a80889a727b8f878ea0778093778093878ea0727b8f838b9d
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

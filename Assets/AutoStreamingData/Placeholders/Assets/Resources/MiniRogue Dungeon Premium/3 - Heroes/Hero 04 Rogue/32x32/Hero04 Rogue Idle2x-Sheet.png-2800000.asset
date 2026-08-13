@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hero04 Rogue Idle2x-Sheet.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 4
+  m_CompleteImageSize: 512
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 512
+  _typelessdata: 30303a83483a28c43e2f24d24f4f59974e53640324273a4c483d31bc403021ca433e42c4595e6e22262a3f2c4d4641b55c4326cd544238dc7c7e8a604245590c423d47af4d3828d94c3325d965606899595c6d03292c3e614a3e35c3462b1ed3594d4ecb7f8490262c31441e3a3537a6503a23d040322dd85a5d6b5a686e7b006b5454c7976437ee9d6031ff9474619a796a690254434f7f8e6746e5a16730ff91694dd7937c721a583c403c835842dea96f35ffa36c3bf39e765841784d3f10874e35c4b67535ffbc823bffb07a457e795442005d3d3f7c96623cf1b37035ffa56f41c88d705d104c3e4c407d5e50d7a56631fb976239fa9c817354ac968700a2552b61c37e37f6ab7a3ff8d99d3d43c3833600a85a2b27c37730c1ae7f3fffcd994389d89d4100c1733102c36c2b62d0903cf0d8a84dbaecba4e0bd8923e00c96f2b2fd68833b9ddad4ed4f5cc5d2fe1ad5000c0702f11d0803193d29f48e8e8bf5a69e0b25300ad67310cb9692d88be863df9bd944bc5deaa4b12dba74b00d6812f05dd95377fdfb757a1fadd6e15f4d06700d8913b00e297362eeab95081fae2762afee77900d0954b00cb712a04e8a8423cfee6782fffeb7d00dfb35f00c56d2c00de91350ffcdc6d1efff28602e5cc7000ae6b3400e0963609f7cb5a24fff08409f1dc7800b6793900d5833008eab04546f8e2772fffee8100ffed8000
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

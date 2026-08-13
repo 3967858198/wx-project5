@@ -34,7 +34,24 @@ public class Ladder : MonoBehaviour
     private void GoNextLevel()
     {
         Debug.Log("进入下一关");
-        SceneManager.LoadScene(3);
+
+        string currentScene = SceneManager.GetActiveScene().name;
+
+        //第一关 -> 第二关
+        if (currentScene == "Game")
+        {
+            SceneManager.LoadScene("Game_1");
+        }
+        //第二关 -> 第三关
+        else if (currentScene == "Game_1")
+        {
+            SceneManager.LoadScene("Game_2");
+        }
+        //第三关为最终关, 通关
+        else if (currentScene == "Game_2")
+        {
+            GameWinPanel.Instance.GameWin();
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D col)

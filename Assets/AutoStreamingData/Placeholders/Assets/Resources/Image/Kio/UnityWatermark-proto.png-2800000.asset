@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UnityWatermark-proto.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 5
+  m_CompleteImageSize: 640
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 640
+  _typelessdata: 0606063b02020220070707520404043a0a0a0a4f0909094c0202022e0c0c0c480a0a0a070505052c04040426030303290c0c0c5a040404370606063c0000000402020217060606380202022a0b0b0b590707073906060640050505450c0c0c5405050530090909540909094d0b0b0b410a0a0a51020202360b0b0b5a0707072f6b6b6b923a3a3a70a1a1a1d06d6d6da1999999b3969696b25f5f5f98a6a6a6997474740a5a5a5a6c3f3f3f5f5b5b5b7da9a9a9c36e6e6ea26f6f6f9700000009232323376a6a6a8f56565684acacacd270707095787878a8888888bca2a2a2c669696989a6a6a6c5939393b7757575939f9f9fc56c6c6ca2aeaeaed55d5d5d7c888888a68c8c8cbdd9d9d9d8aaaaaab97a7a7aa4838383abafafafcb7171718b16161609737373865b5b5b818686869b828282b1b1b1b1baa2a2a2bd181818293d3d3d38959595b79a9a9ab1ccccccdea7a7a7b6a5a5a5b9c6c6c6d1c5c5c5d88a8a8a88aeaeaebabfbfbfc48c8c8ca6a9a9a9b8acacacabcccccce0a9a9a998969696afd2d2d2cca6a6a6979e9e9e81d7d7d790e2e2e291e6e6e6add3d3d3a9bcbcbc14d5d5d5989e9e9eb19494946ae5e5e5a3f1f1f164f2f2f29ad2d2d23bd7d7d720ededed96eaeaea77e6e6e6a1aaaaaa75a1a1a1a1c3c3c37dececec9ddfdfdf4ad2d2d28df0f0f076f4f4f475dcdcdc85e8e8e854e6e6e6a4fcfcfc5ae5e5e5a3fafafa85e5e5e56ddadada53f8f8f804ffffff06ffffff36ffffff3cffffff00ffffff53d2d2d2b3c9c9c919ffffff09ffffff03ffffff07e7e7e704d3d3d302ffffff07ffffff04ffffff08dbdbdb22e1e1e187e6e6e609ffffff09ffffff03ffffff0cffffff04ffffff04ffffff0bfdfdfd02ffffff0affffff03
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

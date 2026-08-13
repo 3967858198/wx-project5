@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 006 #43571.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 24
+  m_CompleteImageSize: 384
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 10
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 384
+  _typelessdata: a739000055550202084220005555028a294a0000555578aa0421000055555570452900005555557300000000aaaaaaaa00000000aaaaaaaa00000000aaaaaaaae8416210abc58383c7392000ab550222c73920002a550020084200005a55a0f8a6310000535500ffc7390000555580ffe7390000555520ff2529000055557c57494a2421a9a921b18a526529bdff627aaa528631ddfd0bafe7392000f802945ce73900005f585c5700000000aaaaaaaa00000000aaaaaaaa00000000aaaaaaaa08420421a1a931e929426210a2028a55084221080888f255e84121085a700055694a200055552ad5494a210855558a5508422000555720d5294a000055555c57c619c1108322f5f54622400855a22fbf0622200855b0b2bbc73941085500aaaa65312000550000008631000055c87a7a00000000aaaaaaaa00000000aaaaaaaa621900008341a5d56121000000d5bfffe431000023b897554641210820ba00556639010800bb2a556741210888ff8855c930000055ff22558c08000055ff8055
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

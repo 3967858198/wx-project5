@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy07Atk-Sheet2x.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 8
+  m_CompleteImageSize: 1024
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 1024
+  _typelessdata: 10121d0036342c488a6739b0715835957254306f31241f001a1b211f836a3da36b4e2f9484663997422e201016141c076054387a795730a481663b9f583e2639221b1d0035322b488a6739b0715835957254306f33261f0015161f1c71603c957756309c94723ca0975c2919281f1f064741326b886436aa7d6338a1a76c314aa4743900ba924810e0a44d9ed7984695e5a54361ce8e3700ae844100dfb05878d5904091e6aa4b94db993a04b7924b00d1b05e3dd995439edfa64da1df9d3c27c2924300bfa35a0fe0a54e9ed89a4795e3a34361d3963a00c2ae5f04dcbd668eda984486e8ad4b9de4a13f06bf974900d7bf6759dda24c8edea54aace9a7422bd7802e11eaa94458efbe5ba5c8984efba1793e5fc9863701eaa53f34f6d06661cf9849f7c18f46a0c8893d01edbc5900fde37821e2a348d9e09c45e2dc943f21e8b05400ffe97f03eebf5da2de963ffbde9a445fe197372afbd87828d1ba70cec78837f9dd9540aadc924101e1983c48f9d36c50dfc479d5bb8943deda8e3b1eebbb5e1eeab350a7e9b04fb9e2b463ff9d67327fc27c3613e6a546a3edb85291e2bc68fca46d34b0aa61270fd98d3317f0bc5432d5a959dabb7e33f7d47e2f5cd5833600e9b75b00e8b1529cd98b35ffd37e3188e1a04f9ef2c46384f7e8b6bde8c27fffdb8f3ab4e6b99627efcc98c2edba6794f6dfb7e3d5954ef2d0792e4ef8dd7700f2ca6761dc9a44f2d9984affe29d4bbcd888390aebbb5d3be6ab4fd4dc9543ffe19f4feed7853730de963e7aecb249b7e7b863f0d8aa58ffe09b45a1d1792c00d5813042d89747e7b98b47ffe2ab58d9f4dbbdb5eabd86b9daa66ecde7cea9ffe0af5eeae8bc9352fcf3e363e8b9679ac4965effd19e56ffd8893b6be1a24b00d89c4922b38644bfa88248f4c4823c5bc9782e00e5ac5200d0a2505dac7f40edc39453ccd6974e13dd9a4728cc88393abe9148a2af884affd2985372d6893b14da8f36c4ce964eb8ccab5ff3b69359bce8d8c84ef7e8d089bf8950d0dab570fbd7974589e2a76c10f6dfb409c28c4b82bc9453f9cb9e4eb6dd913714f2ce7700deb3676dca9e64f5deb158b3d89e3a08e2b05300e7b25c0fba874baacca561f6cb9b4373d29b3f00e8b95f00d6a25449b88c54d6d1a95adecf973c24e1a3490de2a54f62bc8c4da0d1a562f1c49a468ddec08b00fffae032f4dd9ba5eabb6e7fdf933308edc17100fff2a707edd28d9de8c27ed0e8a8443ce6a03900fff7b500fff4b22bf9e4a277e5a7512be7a33c00fae29200fff7b108f8e4a184eec78196e2993a1ae6a64b00fdeea600fef2ac30f4db9aabe7b05f60e1973502de964000ebbe7500fae9a56eefce8ba3e39c3f29edbc7700fffae100fff8b804eaba7001d8872f00ecc17c00fff7b800fff8b810f5d89417df953b00d5802f00
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

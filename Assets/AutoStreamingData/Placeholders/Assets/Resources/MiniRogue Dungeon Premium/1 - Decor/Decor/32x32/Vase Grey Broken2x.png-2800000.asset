@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Vase Grey Broken2x.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 1024
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 12
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 1024
+  _typelessdata: 00004992244992241cdffcdeffffffff00004992244992241cdffcdeffffffffff004992240000001cdffcdeffffffffff00499224000000936b7263aaaaaaaa0000499224499224fcde736b0105050500004992244992241cdffcdeffffffff0000499224499224936b7263aaaaaaaa0000499224499224936b7263aaaaaaaa00004992244992241cdffcdeffffffffff000990000000001cdffcdeffffffffff00000000400224fcde736b50501515ff00499224000000fcde736b55010000ff00099000499224fcde736b00004050ffff499224499224fcde736b00000505ff00400224000000fcde736b555550500000499224499224936b7263aaaaaaaa0000499224499224fcde736b00005555ff00000000400224fcde736b505055550000499224499224fcde736b05055050ff00400224499224fcde736b00005050ff00499224000000fcde736b05050505ff00099000099000fcde736b01000000ff00000000400224fcde736b505055550000499224499224936b7263aaaaaaaa0000499224499224fcde736b55550000ff00499224099000fcde736b05050000ffff499224499224fcde736b50500000ff00099000099000fcde736b55555454ffff499224499224fcde736b0505000000004992244992241cdffcdeffffffff0000499224499224936b7263aaaaaaaa0000499224499224936b7263aaaaaaaa00004992244992241cdffcdeffffffffff000990004992241cdffcdeffffffffff004002244992241cdffcdeffffffffff000990004992241cdffcdeffffffffff004002244992241cdffcdeffffffff00004992244992241cdffcdeffffffff0000499224499224936b7263aaaaaaaa0000499224499224936b7263aaaaaaaa00004992244992241cdffcdeffffffff00004992244992241cdffcdeffffffff00004992244992241cdffcdeffffffff00004992244992241cdffcdeffffffff00004992244992241cdffcdeffffffff00004992244992241cdffcdeffffffff0000499224499224936b7263aaaaaaaa0000499224499224936b7263aaaaaaaa0000499224499224fcde736b0000000100004992244992241cdffcdeffffffff00004992244992241cdffcdeffffffff00004992244992241cdffcdeffffffff00004992244992241cdffcdeffffffff00004992244992241cdffcdeffffffff0000499224499224936b7263aaaaaaaa0000499224499224936b7263aaaaaaaa0000499224499224fcde736b0100000000004992244992241cdffcdeffffffff00004992244992241cdffcdeffffffff00004992244992241cdffcdeffffffff00004992244992241cdffcdeffffffff00004992244992241cdffcdeffffffff0000499224499224936b7263aaaaaaaa0000499224499224fcde736b55150501
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

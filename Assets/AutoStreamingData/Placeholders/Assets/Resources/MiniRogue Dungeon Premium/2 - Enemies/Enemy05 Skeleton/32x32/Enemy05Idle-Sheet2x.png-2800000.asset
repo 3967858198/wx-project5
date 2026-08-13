@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy05Idle-Sheet2x.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 3
+  m_CompleteImageSize: 384
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 384
+  _typelessdata: 4a4f5641565c63a450565d56565b627c5d6469b05f646b595e646ab0636a6f96696f787a61686dc573797b745b60667c5d6369b15a5f6345565b618c51575f7c52565b46555c62a350565d56565b627c5d6469b05f646b595e646ab0636a6f96696f787a61686dc573797b745b60667c5d6369b15a5f6345565b618c545a617fa2a9b667a6afadd8b7c0bf76b9c1c292a9b1b0ccc4cccd5dbbc3c0aeb1b8ba94d2dad658b3bbb8c5abb2bb57b5bdc091a8b0b0ccb2bac05cacb5b5c0abb4b2a4b5bdc270a5aeadd7b7c0bf76b9c1c292a9b1b0ccc4cccd5dbbc3c0aeb1b8ba94d2dad658b3bbb8c5abb2bb57b5bdc091a8b0b0ccb2bac05cacb4b5bfb1bab5ace9f2e222cad1cb81bcc2ca27eef7e32bbdc3c860d9e1da09ebf4e135b9bfca2eedf6e405d7dfd748bfc5ce15eef8e32cbdc3c85fced5d513dee7d866b1b6c153e0e9de1fcbd2cc81bcc2ca27eef7e32bbdc3c860d9e1da09ebf4e135b9bfca2eedf6e405d7dfd748bfc5ce15eef8e32cbdc3c85fced5d513dfe7d866aaafbe52
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

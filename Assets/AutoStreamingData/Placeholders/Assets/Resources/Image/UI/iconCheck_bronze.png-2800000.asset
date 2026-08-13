@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: iconCheck_bronze.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 16
+  m_Height: 15
+  m_CompleteImageSize: 960
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 960
+  _typelessdata: c6a17a00c6a17a00c6a17a00c6a17a00c6a17a00c6a17a6fc7a17cefbb99660fbb996600bb996600bb996600bb996600bb996600bb996600bb996600bb996600c39d7700c39d7700c39d7700c39d7700c39d772fc9a37dffc9a37dffc5a17bbfc5a17b00c5a17b00c5a17b00c5a17b00c5a17b00c5a17b00c5a17b00c5a17b00c7a17b00c7a17b00c7a17b00c7a17b00c7a17bcfc9a37dffc9a37dffc9a37dffc7a17a7fc7a17a00c7a17a00c7a17a00c7a17a00c7a17a00c7a17a00c7a17a00c7a07b00c7a07b00c7a07b00c7a07b8fc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc59e7b4fc59e7b00c59e7b00c59e7b00c59e7b00c59e7b00c59e7b00c69e7900c69e7900c69e793fc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc7a17cefc59c731fc59c7300c59c7300c59c7300c59c7300c59c7300bb996600bb99660fc7a17cefc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc7a17bcfbb99660fbb996600bb996600bb996600bb996600c8a27a00c8a27aafc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc7a07b9fc7a07b00c7a07b00c7a07b00c7a07b00c7a1795fc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc7a1795fc7a17900c7a17900c7a17900c7a17cefc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc8a27aafc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc7a17cefc39d772fc39d7700c39d7700c59c731fc7a07b9fc9a37dffc9a37dffc9a37dffc6a17a6fbb99660fc7a17bcfc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc5a17bdfbb99660fbb996600c59c7300c69e7900c69e793fc5a17bbfc5a17bbfc5a17b00c39d7700c39d772fc7a17cefc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc8a27aafc8a27a00c59c7300c7a07b00c69e7900bb996600bb99660fbb996600bb996600c7a17900c7a1795fc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc9a37dffc6a17a6fc59c7300c69e7900c69e7900c5a17b00bb996600c5a17b00c7a07b00c7a07b00c7a07b00c7a07b8fc9a37dffc9a37dffc9a37dffc9a37dffc5a17bdfc69e793fc59c7300c7a07b00c69e7900bb996600bb996600bb996600c7a17b00c7a17b00c7a17b00c7a17b00c7a17bcfc9a37dffc9a37dffc7a07b8fbb99660fbb996600c59c7300c69e7900c69e7900c5a17b00bb996600c5a17b00c59c7300c59c7300c59c7300c59c7300c59c731fc7a17bcfc69e793fc69e7900bb996600c69e7900
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Book shelf 01 2x.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 512
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 10
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 512
+  _typelessdata: 6e99242155550f0f27dae41055550f0f46fc0529555550504e9904195555000036550419555500006d99041955550f0feae1e5185555a0a028da05195555f0f08e9924290f0f5f5f27e2e4280505555546fce428505055554e99c320000055553655c320000055556d91c3200f0f55550adaa420a0a0555548da0519f0f0f5f5c9e2c851a5a505054afc4839aaaa50504cbb38a500005555d4c42551aaaa50504cbb38a50000555547da579daaaa050547ea3655aaaa50502aed88515a5a505048da05190f0f5f5f46fce42850505555f1b5c32000005555f79c8220f0f0555593d48228a0a0555593d48228a0a05555729482300a0a555569e54510f0f0f5f5566dc769f5f50505eaca47390000050589dd2acaffff050547ec7654aaaa0505edbae7400000a5a5acb2365500005050eaca473900000505c9e2c8515a5a5050f65c62380f0f5f5f27e2e42805055555c8fc83280a0a55550fc6e5180a0a55556d91c3200f0f5555157c83280a0a555527e2e4280505555548da0519f0f0f5f56b8aa851000050506b8aa851000055556b8aa851000055556b8aa851000055556b8aa851000055556b8aa851000055556b8aa851000055556b8aa851000005056b8aa851505000006b8aa851555500006b8aa851555500006b8aa851555500006b8aa851555500006b8aa851555500006b8aa851555500006b8aa85105050000
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

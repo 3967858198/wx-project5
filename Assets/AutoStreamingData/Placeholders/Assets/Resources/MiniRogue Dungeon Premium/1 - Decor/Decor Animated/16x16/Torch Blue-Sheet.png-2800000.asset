@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Torch Blue-Sheet.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 7
+  m_CompleteImageSize: 896
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 896
+  _typelessdata: 93ebc20077b9a08b2d3b46ff59867dcd93e9c11392e9c1008bdbb7453d565bf63f585bf68bdbb74592e9c10093e9c11359867dcd2f3d47ff77b9a08b93ebc20094ebc20076b7a08b2e3c46ff5b887dcd93e9c11392e9c1008bdbb7453f585bf63f585bf68bdbb74592e9c10093e9c1135b887dcd2e3c46ff76b7a08b94ebc20093eac1007ec5b0935599a9ff6caea9ce92e7bf1592e9c0008bdbb9485e9fa8f568a9a9f58cdbb94892e9c00092e7bf156caea9ce62a7abff82cab18d93e9c10093eac1007dc4b08e5ea2aaff77b9aace91e7bf1592e9c0008cdbb94869aba9f664a5a8f68cdbb94893e9c00091e7bf1577b9aace5ea2aaff7dc4b08e93eac10092e8c00090e6c03383d9bfb090e6c04092e8c00092e8c00092e8c0048be1bf8889dfbf9f92e8c00592e8c00092e8c0008fe5c04186dcbfcb91e7c02b92e8c00092e8c00091e7c0198be2c07390e6c03a92e8c00092e8c00092e8c0068de3c0568de3c05793e8c00691e7c00092e8c00090e6c0378ce3c06c92e8c01992e8c00093e9c00093e9c00092e8c0058fe5bf008bdab90092e8c00092e8c00093e9c01993e9c02693e9c00092e8c00092e8c00092e8c00a93e9c06d92e8c01192e8c00092e8c00092e8c00e92e8c07592e8c01191e7c0008be1bf0087dcbf0079cfbd1b6fc5bc0476ccbd006dc2bb0086d5b90090e5bf0087ddbf0087dabc008cddbb0089debf008ae0bf007bd1bd006cc1bb007acebc0089dfbf008de3bf008ce2bf007fd5be0080d5be0090e6c00091e7c00092e8c00292e8c00692e8c00092e8c00092e8c00092e8c00992e8c02793e9c00283d9be0060b5ba005db3ba0059aeb9554fa4b81950a5b80050a4b80067baba0072c7bc0067bcbb036abebb0082d6bd0066bcbb0065bbbb0064b9ba0862b7ba105fb4ba0059aeb90061b6ba0068bdbb0165bbbb0a66bbbb016fc5bc0078cdbd008fe5c00092e8c00092e8c00092e8c00092e8c00092e8c00092e8c00093e9c00082d8be0052a7b80052a7b80053a8b8034fa4b80250a5b8004fa4b80057acb90063b8ba0163b8ba1762b8ba016bc0bb006cc2bb006ec4bc006fc5bc036ac0bb0657acb90054a9b9005ab0b90062b7ba0162b7ba1263b8ba0162b7ba0067bcbb008ae0bf0092e8c00092e8c00092e8c00092e8c00092e8c00092e8c00093e9c00084dabe005fb5ba0076cbbd005aafb90054a9b90058adb9004fa4b80058adb90066bbbb005fb4ba0169bebb0087ddbf00
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

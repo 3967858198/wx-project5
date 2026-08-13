@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Soft.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 1024
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 12
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 1024
+  _typelessdata: 0000499224499224ffffffffaaaaaaaa1100499224499c18ffffffffaaaaaaaa78004992fcbf6b0effffffffaaaaaaaab00449f2df2d2901ffffffffaaaaaaaab00449e2ff640b48ffffffffaaaaaaaa780049f227f58fd1ffffffffaaaaaaaa11004992244e0227ffffffffaaaaaaaa0000499224499224ffffffffaaaaaaaa1100499224499c18ffffffffaaaaaaaacf02c99dbb37e70effffffffaaaaaaaaff5771594e132000ffffffffaaaaaaaaffce713b49000000ffffffffaaaaaaaaffcead2369000000ffffffffaaaaaaaaff57aca3b1800640ffffffffaaaaaaaacf027e523fa38fd5ffffffffaaaaaaaa11004992244e0227ffffffffaaaaaaaa7800c99d9cb99717ffffffffaaaaaaaaff57e9640a1d4001ffffffffaaaaaaaafffa112000000000ffffffffaaaaaaaaffff499224499224ffffffffaaaaaaaaffff499224499224ffffffffaaaaaaaafffa800240000000ffffffffaaaaaaaaff575a03d1c00a88ffffffffaaaaaaaa78007ec227f3833effffffffaaaaaaaab004799557391113ffffffffaaaaaaaaffce196001155001ffffffffaaaaaaaaffff499224499224ffffffffaaaaaaaaffff499224499224ffffffffaaaaaaaaffff499224499224ffffffffaaaaaaaaffff499224499224ffffffffaaaaaaaaffcec002c8800aa8ffffffffaaaaaaaab004eaa33ee0033affffffffaaaaaaaab004319113799557ffffffffaaaaaaaaffce155001169001ffffffffaaaaaaaaffff499224499224ffffffffaaaaaaaaffff499224499224ffffffffaaaaaaaaffff499224499224ffffffffaaaaaaaaffff499224499224ffffffffaaaaaaaaffce800aa8800c2cffffffffaaaaaaaab004a0033eeaa33effffffffaaaaaaaa780079917bc999dcffffffffaaaaaaaaff5714d001a6904effffffffaaaaaaaafffa000000021001ffffffffaaaaaaaaffff499224499224ffffffffaaaaaaaaffff499224499224ffffffffaaaaaaaafffa000000000428ffffffffaaaaaaaaff578008ac10ad35ffffffffaaaaaaaa7800e8333f7ce227ffffffffaaaaaaaa11008991c4499224ffffffffaaaaaaaacf02ee7073b99bdcffffffffaaaaaaaaff57023001e51497ffffffffaaaaaaaaffce0000009314b7ffffffffaaaaaaaaffce00000092d63affffffffaaaaaaaaff570004681acb3affffffffaaaaaaaacf02583dfaf5e327ffffffffaaaaaaaa110070e224499224ffffffffaaaaaaaa0000499224499224ffffffffaaaaaaaa11008991c4499224ffffffffaaaaaaaa7800e6f0bbc99f24ffffffffaaaaaaaab00412d092ff9d24ffffffffaaaaaaaab0048044b6fe9f24ffffffffaaaaaaaa7800185dff7f9224ffffffffaaaaaaaa110070e224499224ffffffffaaaaaaaa0000499224499224ffffffffaaaaaaaa
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

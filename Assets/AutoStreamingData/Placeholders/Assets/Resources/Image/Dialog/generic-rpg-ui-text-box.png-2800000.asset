@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: generic-rpg-ui-text-box.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 9
+  m_CompleteImageSize: 1152
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 1152
+  _typelessdata: 4a2130724c3835f1a3866dffbe9b7cffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbf9c7dff917563e64c3a36f2ac836afffad09effffd3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0ffffd6a2ffbf9c7cffa5886efffad09efffcd19efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffed3a0ffbc9a7bffbd9b7cffffd3a0fffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffed3a0ffbc9a7bffbc9a7bfffed3a0fffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffed3a0ffbc9a7bffbc9a7bfffed3a0fffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09effffd3a0ffbd9b7cffbc9a7bfffed3a0fffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffbd09efffcd09efff9cf9dffa5886effbf9c7cffffd6a2fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0fffed3a0ffffd3a0fff8ce9dff9f7764ff4c3a36f2917563e6bf9c7dffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbd9a7bffbe9b7cffa3866dff4c3835f14a213072
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

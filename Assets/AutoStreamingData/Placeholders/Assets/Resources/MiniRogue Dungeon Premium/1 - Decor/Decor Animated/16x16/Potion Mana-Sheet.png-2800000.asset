@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Potion Mana-Sheet.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 4
+  m_CompleteImageSize: 512
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 512
+  _typelessdata: 74787f43728c90bc7c7a791070818887778888877a787910708990bc7c828040777b7f3f738c90bb7e7b7a1072828887798989877b787910708990bb7d827f3f757a7f40728c90bc7c7a79107081888777888987797779106f898fbc7b817f40757a7f40728c90bc7c7a79107081888777888987797779106f898fbc7c838043d3dadf2ac3d2d08be2e7e504c9d7db60d1e0db60cfdae004a7c9cd8bcae1da28b4ccd729a9cdcc91c6dddb04a6c5d063b8d8d263cbdcde04adc4ca95cadbdb2ad2dadf28c1d1cf8be1e7e504c9d3d75fcfdcd75fdfe3e504c0cecf88dce4e027d7dde028c6d4d08ae4e9e604cbd4d75fd2ddd85fe0e4e604c1cfd08bdde6e02ae6ece305f2fbe611f0f8e700ecf3e70cf5ffe80cc5dddc0089c9c711aeeacd0478bdc30688d3c21a9addc8007abcc41192dcc4116fbabf0070bbbd3a86d0c20d85c0c81293cdc84a9ad2cc008fc5ca2a9bd1cb2a90c7cb018dc3c84492caca139bcacf0ba7d2d029a6d1d201a6cfd113acd6d213a4d0d201abd3d216add7d307e8ede800f4fde800f0f8e800edf3e800f6ffe800c5dddd008bcac700beedd4008bc1ca008dd6c400aee1d0007fbdc6009ce1c70068b7bd0066bdbb007cd2bd0053aab80472c9bc1270c7bb0058afb9147cd3bd145ab1b9025fb6ba467cd3bd1454abb8154da3b8444da3b7044ea3b8164ea3b8164fa4b80252a6b90b53a6b906
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

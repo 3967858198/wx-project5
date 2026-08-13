@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hero02 Archer Idle-Sheet.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 3
+  m_CompleteImageSize: 384
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 384
+  _typelessdata: 273227874a5136be4c4a3968353f2ea953563aa83c3d32734a4d38d35c594179434636a0655e45ce5052395e3d4433bf605e41ac424436663e4831be55543c84343c2f86495036be4c4a3968353f2ea953563aa83c3d32734a4d38d35c594179434636a0645d45ce5052395e3d4433bf605e41ac424436663e4731bf57573e7f8d704dc1aa8963ceb9865a599e7358e7c4896698ac755380ba7364eec97b604daf6554bbdc736fb2c86f5943ae6a5bedd07f6983a873517bac7b61f4c88c6266967751b7aa8962cfb9865a599e7358e7c4896698ac755380ba7364eec97b604dae6453bbd56f6cb2c86f5943ae6a5bedd07f6983a873517bac7b61f5c68a675bde4b6388ed53716fe74e6819dd4a669ff64f7126e549633cef4c6f68fc507305f24d6e4efc507529f04b6a0aea486b57fa4e7316e8466536ea4d6e73f851700bde4a6386ed53716fe74e6819dd4a669ff64f7126e549633cef4c6f68fc507305f24d6e4efb507529f04b6a0aea486b57fa4e7316e8466536ea4d6d73fe52770b
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

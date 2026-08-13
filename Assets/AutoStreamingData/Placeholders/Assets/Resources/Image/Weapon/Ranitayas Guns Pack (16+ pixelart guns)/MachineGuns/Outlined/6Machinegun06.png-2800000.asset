@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 6Machinegun06.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 8
+  m_CompleteImageSize: 1024
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 1024
+  _typelessdata: ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00fbfbfb43bfbbbfeeb4b0b5ffc7c4c7d8dbd9dbacb3b0b5ffb4b1b7ffbcb9bdf2f8f8f84bffffff00ffffff00ffffff30c6c3c6deb5b0b5ffbebabeeefafafa44ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00f9f8f946ebeaeba7ebeaeba6edeceda4fefefe31ffffff00ffffff00ffffff3ba09ca3e2544132ff665037ffa39ea7ff9b949bff8c481fffb3641fff6b463dffe9eaedaeffffff00ffffff27b7b3b7d4413746ff352b3bff8c868ef1fbfafb53ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00c2bfc2f1403541ff413642ff483e4affb1adb4d4ffffff5dffffff48ffffff63776f78ff34262fff493e47ffa39fa7ffa39da4ffca7421ffff9e1cff8c5f47ffeaecf0acffffff00ffffff3f8f8990ff312636ff3e3546ff8c8691fffbfafb92ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00bbb7bcff2b1f2cff2d202dff2c202dff3c323fff736b74ff878087f5bab6bacd473c47ff2d212fff362b39ff837c84ff7b717dffd37c29ffff9e1cff9a6b53ffdadadfe3ebeaeba7f3f2f396dbd9dbbb4d434fff3c3244ff6f6875ffbdbac0d7ffffff2cffffff00ffffff00ffffff00ffffff00ffffff00ffffff0affffff00bdb9beff302534ff322735ff322735ff312634ff2d2230ff2d222fff392e3bff322735ff342937ff372c3aff928d95ff827984ff9a562effb46620ff734d47ff463e4dff453b48ff625a65fbb5b1b5f14d434fff352b3aff3f3544ffbbb8bcceffffff62ffffff58ffffff59ffffff59ffffff57f5f4f571dbd9dca8ffffff19eae9eae7bcb9bfe7bcb9bfe7bcb9bfe7bcb9bfe6bcb9bff4544a56ff291e2cff332938ff382e3dff362c3cff312636ff443a4bff4d4151ff4a3e4fff4f4354ff514556ff514556ff4a3f4fff372c3cff382d3dff382d3dff362b3bff524957ff827b86ff817a86ff817a86ff817a86ff817b86ff766f7bff5c5462ffd7d5d9c8ffffff18ffffff18ffffff18ffffff18ffffff14ffffff57a5a0a8ea7d7782ff534b59ff382e40ff625a68ff817b85ff8d8590ff9a929cff9a919cff99919bff99919bff99919bff98909aff968e98ff968d98ff968d98ff968e98ff948c96ff918893ff918893ff918893ff918893ff918994ff887f8bff746977ffdcdaddc8ffffff00ffffff00ffffff00ffffff00ffffff00ffffff00ffffff3fffffff58d5d3d7c3b9b6bcffe3e1e4a2ffffff54ffffff59ffffff59ffffff59ffffff59ffffff59ffffff59ffffff59ffffff59ffffff59ffffff59ffffff59ffffff59ffffff59ffffff59ffffff59ffffff59ffffff57f7f6f775e2dfe2b5ffffff18
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

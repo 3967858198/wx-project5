@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: la ji tong.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 14
+  m_Height: 22
+  m_CompleteImageSize: 1232
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 1232
+  _typelessdata: 0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff514c57ff262429ff262429ff262429ff262429ff46424bff46424bff46424bff46424bff46424bff0b0a0cff0b0a0cff0b0a0cff0b0a0cff514c57ff262429ff262429ff262429ff262429ff46424bff46424bff46424bff46424bff46424bff0b0a0cff0b0a0cff0b0a0cff514c57ff514c57ff514c57ff262429ff262429ff46424bff46424bff46424bff46424bff46424bff46424bff45414aff0b0a0cff0b0a0cff514c57ff514c57ff514c57ff514c57ff514c57ff46424bff46424bff46424bff46424bff46424bff46424bff46424bff0b0a0cff0b0a0cff45414aff45414aff514c57ff514c57ff514c57ff514c57ff514c57ff514c57ff514c57ff45414aff45414aff262429ff0b0a0cff0b0a0cff45414aff45414aff45414aff45414aff45414aff514c57ff514c57ff514c57ff514c57ff45414aff45414aff45414aff0b0a0cff0b0a0cff45414aff45414aff45414aff45414aff45414aff45414aff514c57ff514c57ff514c57ff45414aff45414aff45414aff0b0a0cff0b0a0cff45414aff45414aff45414aff45414aff45414aff45414aff45414aff514c57ff514c57ff45414aff45414aff45414aff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff514c57ff514c57ff0b0a0cff514c57ff514c57ff514c57ff514c57ff45414aff45414aff0b0a0cff514c57ff514c57ff0b0a0cff0b0a0cff0b0a0cff0b0a0cff514c57ff514c57ff514c57ff514c57ff514c57ff45414aff45414aff514c57ff0b0a0cff0b0a0cff0b0a0cff0b0a0cff827b8bff0b0a0cff514c57ff514c57ff514c57ff514c57ff514c57ff45414aff45414aff514c57ff0b0a0cff827b8bff0b0a0cff0b0a0cff827b8bff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff827b8bff0b0a0cff0b0a0cff827b8bff0b0a0cff827b8bff827b8bff827b8bff827b8bff827b8bff827b8bff827b8bff827b8bff0b0a0cff827b8bff0b0a0cff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff0b0a0cff0b0a0cff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff0b0a0cff827b8bff0b0a0cff827b8bff0b0a0cff0b0a0cff0b0a0cff0b0a0c000b0a0c000b0a0cff827b8bff827b8bff827b8bff827b8bff827b8bff827b8bff827b8bff827b8bff0b0a0cff0b0a0c000b0a0c000b0a0c000b0a0c000b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0cff0b0a0c000b0a0c00
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

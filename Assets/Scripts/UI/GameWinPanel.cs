@@ -32,7 +32,7 @@ public class GameWinPanel : BasePanel
         _menuButton.onClick.AddListener(() =>
         {
             
-            SceneManager.LoadScene(0); 
+            SceneManager.LoadScene(2); 
             //切换指针为ui
             GameManager.Instance.SetUICursor();
         });

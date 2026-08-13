@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy02Idle2x-Sheet.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 5
+  m_CompleteImageSize: 640
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 640
+  _typelessdata: 162029041c262d9017161fb81a1b24c419202746151c25001921285c1a1d24c5171721bb1a20278b151a2300161a23361c2228c816151eb01c2027c41619222a1518210d1b2228a9171720b71a1d25ca181c2362151922001921285c1a1d24c5171721bb1a20278b161c250118222a201c232aba15141eb21b1f27b3171f261723222820262e35c5262f33f4283436f42423257c2322260d263033b029383afa293c3af4283533d8242528232a3a37812c423eff2b4239ef2e4b40ff262d2e70283433392b413ef62b4039f22e4b40fe293734bb24252a14262f33b029383afa293c3af4283633d82320242324252a4d273036e9263034f1273132e3231f22413a62413a3a6244ef355d46ff376247ff30483ec1324d3d13477d46a23d6d47fa3a6847ff3a5f43e22d423f2a4b844441467b47ce3b6949ff3b6243e62e43414f467843184b8446a83c6c4afa3c6745f9334c428c395c420e477d45a33d6d48fb3b6948ff3b6143dd2e423e2a3a62427a386145ff355d46ff386045ff2b3a3979529244054e8745573d6b51ec395c45dc2f444046314b42004b804310406e51a5395d4dee2f45404a2c3f41024371440044724a44416d54e62f4a435f2c4443003f6b440046774514437155c6345448a22c434209447643005ca0410f497c4e93406c4dd7385a423635564301528f4314487c498a3b654fff385641ad2b3c40214b8344004d83440450894c853c6b4966315a48003f71460056944200599944324d8a485e366c4c063b734b00589b42005a9b42085a9f43323c764b0e38704c00549644005b9d41005da142284683481f366e4c00468549005da341005b9e42165193452e376c4b02396246004d8343004e8446224d864da035604832345e4800
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

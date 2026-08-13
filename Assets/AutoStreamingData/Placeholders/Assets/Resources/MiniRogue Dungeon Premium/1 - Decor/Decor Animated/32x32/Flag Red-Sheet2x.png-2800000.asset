@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Flag Red-Sheet2x.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 6
+  m_CompleteImageSize: 768
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 768
+  _typelessdata: 37364c30653a47a337364c2e30354d16623a479c41374b4c2b354d07593948884e38496b2a354d024e38496c5a3948882b354d0841374b4b623a479c30354d1831354c1a633a479c41374b4b30354d14623a47885038496a2b354d0a613a47955138496c2a354d024e38496b593948882b354d0741374b4c623a479c30354d194f384969933e42ff4e3849653d364b3b903e42fd623a479531354c1d853d43e7753b45c22c354d0e753b45b38b3d43f539364c315939487a923e42ff48374a574b384a5c943e42ff553949753e374b3b913e42fd663a479731354c1d873d43e6763b45c22d354d12753b45c2853d43e631354c1d623a4795903e42fd3f374b3f50384969943e42ff4f3849653d364b3a923e42f9683a479f30354d1a813c44db853d43d42f354d16693a46a08d3d43f53a364b36633a478b943e42ff44374a4e4e384965943e42ff4e3849643d364b3b903e42fa633a479532354c1d863d43e4763b45c12d354d12763b45c1863d43e432354c1d633a4795903e42fa3f374b3f4f384969973e41ff4e38496634354c228d3d42e9763b45bf2d354d167b3c44c7883d43e332354c27763b45be873d43e530354d1e62394795923e42fa3c364b3a4d384965973e41ff4d3849653c364b3b933e42fa6239479430354d1d873d43e4763b45c12c354d12763b45c1873d43e430354d1d62394794933e42fa3e364b3f5c3f4a709d4148ff5b3f4a6d493e4a369a4148f7784048b8433e4a29914148e5844048d2413e4a207f4049c78e4048e9423e4a246c3f499b994148ff4c3e4a425b3f4a6c9d4148ff5b3f4a6c4c3e4a42994148ff6c3f499b423e4a248e4048e97f4049c73f3e4a197f4049c78e4048e9423e4a246c3f499b994148ff4f3f4a46a37c504b5a4a6d86a47d4f49b78948355e4d6b848f6f585fc49142256955677d79606070c994411f7a6060706955677dc49142258e6f585e5e4d6b84b7894834a47d4f495a4a6d86a47d4f49b78948345e4d6b848e6f585ec49142256955677d7a606070c99441207a6060706955677dc49142258e6f585e5e4d6b84b6874834
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

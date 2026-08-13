@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UnityWatermark-beta.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 4
+  m_CompleteImageSize: 512
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 512
+  _typelessdata: 000000020000000100000003000000060000000500000006000000060000000700000002000000030000000300000003000000030000000400000004000000030000000200000007000000040000000300000004000000030000000b0f0f0f2901010106000000070000000700000005000000050000000400000006000000042e2e2e4d2727275f343434614343436e37373768424242713e3e3e744949497c1919193230303058393939703030305b2c2c2c563c3c3c5f3131315c25252548181818314b4b4b732c2c2c542d2d2d5a2f2f2f5d2d2d2d5a4242426b7e7e7e9c1313132c3e3e3e6b434343763f3f3f753d3d3d6c3a3a3a5e4545456f2b2b2b507373738ab4b4b4d29d9d9dba9393939aa0a0a0a49e9e9eb2a5a5a5c0c9c9c9cd6a6a6a5ea9a9a99cd3d3d3c9979797a3848484a9828282a28f8f8fb57d7d7d82525252617a7a7a8e7d7d7d99979797b48181819f828282a79d9d9db7bbbbbba94f4f4f51909090aba0a0a0beb7b7b7c3b9b9b9c78a8a8a9d9c9c9c9b9494947e9f9f9f79cacaca7ebfbfbf96b9b9b933c4c4c428b1b1b14daeaeae7cdbdbdb3ab6b6b619d2d2d229e9e9e931a1a1a14ca0a0a078a4a4a46ab6b6b689b8b8b8278d8d8d558b8b8b6c9d9d9d68e1e1e13c9e9e9e459b9b9b79b7b7b764c7c7c725a8a8a824adadada6bcbcbca8d4d4d43ec5c5c54aa3a3a35fcbcbcb2fececec21
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

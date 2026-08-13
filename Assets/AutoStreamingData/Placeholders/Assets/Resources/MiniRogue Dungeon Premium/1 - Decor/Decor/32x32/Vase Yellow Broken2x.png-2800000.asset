@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Vase Yellow Broken2x.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 1024
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 12
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 1024
+  _typelessdata: 00004992244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaaff004992240000006efd6dfdaaaaaaaaff0049922400000086aa86a2aaaaaaaa00004992244992246efd86aa0105050500004992244992246efd6dfdaaaaaaaa000049922449922486aa86a2aaaaaaaa000049922449922486aa86a2aaaaaaaa00004992244992246efd6dfdaaaaaaaaff000990000000006efd6dfdaaaaaaaaff000000004002246efd86aa50501515ff004992240000006dfd86aa55010000ff000990004992246efd86aa00004050ffff4992244992246efd86aa00000505ff004002240000006efd86aa55555050000049922449922486aa86a2aaaaaaaa00004992244992246efd86aa00005555ff000000004002246efd86aa5050555500004992244992246efd86aa05055050ff004002244992246efd86aa00005050ff004992240000006efd86aa05050505ff000990000990006efd86aa01000000ff000000004002246efd86aa50505555000049922449922486aa86a2aaaaaaaa00004992244992246efd86aa55550000ff004992240990006efd86aa05050000ffff4992244992246efd86aa50500000ff000990000990006efd86aa55555454ffff4992244992246efd86aa0505000000004992244992246efd6dfdaaaaaaaa000049922449922486aa86a2aaaaaaaa000049922449922486aa86a2aaaaaaaa00004992244992246efd6dfdaaaaaaaaff000990004992246efd6dfdaaaaaaaaff000000004992246efd6dfdaaaaaaaaff000990004992246efd6dfdaaaaaaaaff004002244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaa000049922449922486aa86a2aaaaaaaa000049922449922486aa86a2aaaaaaaa00004992244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaa000049922449922486aa86a2aaaaaaaa000049922449922486aa86a2aaaaaaaa00004992244992246efd86aa0000000100004992244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaa000049922449922486aa86a2aaaaaaaa000049922449922486aa86a2aaaaaaaa00004992244992246efd86aa0100000000004992244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaa00004992244992246efd6dfdaaaaaaaa000049922449922486aa86a2aaaaaaaa00004992244992246efd86aa55150501
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

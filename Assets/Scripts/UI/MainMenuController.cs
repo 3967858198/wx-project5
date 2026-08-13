@@ -29,7 +29,8 @@ public class MainMenuController : MonoBehaviour
         //新游戏按钮点击
         _newGameButton.onClick.AddListener(() =>
         {
-            SceneManager.LoadScene(1);
+            //进入第一个关卡
+            SceneManager.LoadScene(0);
             
             //播放音效
             // MusicManager.Instance.CreateMusic("buttonClick");

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Flag Blue-Sheet.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 7
+  m_CompleteImageSize: 896
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 896
+  _typelessdata: 9c2a700b8b468087903e7c699d296f0097327537864d849e992f73299c2970048d427e798d427e799c297004992f7329864d849f973274379d296f00903e7c698b4680869c2a700a9c2a700b8a468187903e7c699d296f03933878408450879b9830742b9b2c7117854f86a2913c7a589d296f0095357747874b849a9a2d721d9831742d746a96f27b5f8fd09c29700d884982896f729aff8d427e6f9b2c7118776593e3776593e39b2c71188d427e686d759cff854f86a09d296f0a7e5a8cbb736b97fb9536773e93387846716e98fe7e598cbb9d296f0f7e598cb96f729aff943778419535773e707099fe7e598cbb9d286f07845187a36f719aff913b7a589733752f766794f17b5e8fd19c2a700e874b848c726d97ff8b4480729a2d721a786291e2766794e89830732292397947736b96fd7f588bbc9c2a70117b5e8fbd736a96ff923a794d903d7b57726c97ff835287a49d296f087f588bbc746995fc9437773f9437783f746a96fc7f588bbc9d296f08835288a5736c97ff903e7c5a9732752f736b96f17a6090d19c2a700d8948827b6d759cff854e85959c2a700d7d5c8dc76f729afa9536773e8f3f7c606f729bff854e859a9c2a7011796191d2736b97f29831742d913c7b576f729aff835288a59d286f087e598cbc716f99fc9436773f9436773f716f99fc7e598cbc9d286f08835288a56f729aff903d7b5a9631752e736996f17a5f90d19b29710c8e3f7d5e6e719aff825188a59b297110796190cb716c97f99533773b8c427f6f6e719aff8749838a9b29710d7a5f90d1736996f19730752a903b7b566f7099ff825188a49c2770077e588cbc716d98fc9435783f9435783f716d98fc7e588cbc9c277007825188a46f7099ff903c7b59a3406b3a817297f688678ed8a83a651995557e8f7a7c9fff96547c94a63d6828836f94e9846e94eca53d682a9a4e787c7c7a9eff96547d96a83a661988678ed8817297f6a43f6a369e4873637d799dff915b83afa83965128d6189c57e769bffa1436e4ba1436e4b7e769bff8d6189c5a8396512915b83af7d799dff9d497366de8d482ac9457a70cd537169e197401cd66f5e53c53a8173d9785748e0944322cb4b766ecb4b766de0944321d9785749c53a8173d66f5e53e197401ccd537169c9457a70df8f472adb81513ec63c7f73d365655ce1993f19d05c6b64c73f7d72dd884c34dd884c34c73f7d72d05c6b64e1993f19d365655cc63c7f73db805240
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

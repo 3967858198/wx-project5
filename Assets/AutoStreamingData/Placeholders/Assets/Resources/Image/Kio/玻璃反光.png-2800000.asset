@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: "\u73BB\u7483\u53CD\u5149.png-2800000"
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 9
+  m_CompleteImageSize: 1152
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 1152
+  _typelessdata: f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff0bf6ffff38f6ffff1ef6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff1af6ffff28f6ffff02f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff02f6ffff32f6ffff65f6ffff27f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff0bf6ffff46f6ffff36f6ffff02f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff2af6ffff66f6ffff2ef6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff07f6ffff43f6ffff39f6ffff03f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff23f6ffff65f6ffff35f6ffff01f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff06f6ffff40f6ffff3bf6ffff04f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff1ff6ffff14f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff1df6ffff62f6ffff3df6ffff04f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff04f6ffff3cf6ffff3ff6ffff06f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff1cf6ffff46f6ffff0cf6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff17f6ffff5bf6ffff35f6ffff01f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff03f6ffff38f6ffff36f6ffff02f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff0bf6ffff05f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff09f6ffff0ef6ffff01f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff00f6ffff02f6ffff0df6ffff02f6ffff00f6ffff00f6ffff00f6ffff00
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000

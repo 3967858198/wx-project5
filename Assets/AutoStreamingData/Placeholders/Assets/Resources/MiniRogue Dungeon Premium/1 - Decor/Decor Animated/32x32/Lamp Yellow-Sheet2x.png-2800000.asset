@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lamp Yellow-Sheet2x.png-2800000
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: 00000000000000000000000000000000
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 0
+  serializedVersion: 5
+  m_Width: 32
+  m_Height: 3
+  m_CompleteImageSize: 384
+  m_MipsStripped: 0
+  m_WebStreaming: 0
+  m_PriorityLevel: 0
+  m_UploadedMode: 0
+  m_DataStreamData:
+    size: 0
+    path: 
+  m_TextureFormat: 4
+  m_TextureManagerMultiFormatSetting: 
+  m_MipCount: 1
+  m_IsReadable: 0
+  m_IsPreProcessed: 0
+  m_IgnoreMipmapLimit: 0
+  m_MipmapLimitGroupName: 
+  m_StreamingMipmaps: 0
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 1
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 1
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 6
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 384
+  _typelessdata: 5552502c4543488a635f56075b56506c5a56506b6f6a590c504d4c966762563267635832504d51966f6a5a0c5a57546b5a57546b6f6a5a0c504d51966763583267635832504d51966f6a5a0c5a57546b5b57546c635f56074543488a5451502a504d4f24434047825350510348464b5948464b5953505103434047824f4c4e26d3c376719c8861e9eedf7f43b9a870ceb9a76fcdf3e3805aa08d68f8dccb798cdccd858ca0907cf8f3e4865ab9aa80cdb9aa80cdf3e4865aa0907cf8dccd848cdccc828ca08f77f8f3e4865ab9a97ccdb9a97eceeedf80439c8861e9d4c4766dd2c276569b8761d5e8d97d21b2a06aa0b2a06aa0e8d97d219b8761d5d0c07559e9da7e47bbb174a1fceb8223cfc3799acfc3799afbeb8232bbb074c4eadb7e5deadc855dbbb282c4fbeb8532cfc4839acfc4839afbeb8532bbb282c4eadc855deadc855dbbb281c4fbeb8532cfc4839acfc4839afceb8323bbb174a1eadb7e44eadb7e31bcb17486fceb8210d0c37862d0c37862fceb8210bcb17486e9da7e33
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
+  m_OriginalWidth: 0
+  m_OriginalHeight: 0
+  m_OriginalAssetGuid: 00000000000000000000000000000000
