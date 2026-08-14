@@ -34,7 +34,7 @@ public class GameWinPanel : BasePanel
             
             SceneManager.LoadScene(2); 
             //切换指针为ui
-            GameManager.Instance.SetUICursor();
+            GameManager.Get().SetUICursor();
         });
         
         //退出游戏

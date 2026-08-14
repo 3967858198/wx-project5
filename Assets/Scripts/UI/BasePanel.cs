@@ -20,7 +20,7 @@ public class BasePanel : MonoBehaviour
         _cg.blocksRaycasts = true;
         
         //切换指针为ui
-        GameManager.Instance.SetUICursor();
+        GameManager.Get().SetUICursor();
     }
     
     //关闭
@@ -31,7 +31,7 @@ public class BasePanel : MonoBehaviour
         _cg.blocksRaycasts = false;
         
         
-        GameManager.Instance.SetShootCursor();
+        GameManager.Get().SetShootCursor();
     }
 
     

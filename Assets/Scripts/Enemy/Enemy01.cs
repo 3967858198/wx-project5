@@ -48,7 +48,7 @@ public class Enemy01 : EnemyBase
             hit.GetComponent<Player>().Hurt(damage);
             
             //播放音效
-            MusicManager.Instance.CreateMusic("enemy01Attack");
+            MusicManager.Get().CreateMusic("enemy01Attack");
 
             //记录最后的攻击时间
             lastAttackTime = Time.time;

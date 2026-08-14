@@ -11,8 +11,26 @@ public class GameManager : MonoBehaviour
     public Texture2D shootCursor; //准心纹理, 游戏界面使用
     public Vector2 hotspot = new Vector2(7.5f, 7.5f); //偏移量
 
+    //确保实例存在: 场景中没有GameManager时自动创建, 便于单独打开任意关卡场景测试
+    public static GameManager Get()
+    {
+        if (Instance == null)
+        {
+            var go = new GameObject("GameManager");
+            go.AddComponent<GameManager>();
+        }
+        return Instance;
+    }
+    
     private void Awake()
     {
+        //单例去重: 场景切换时已有实例则销毁自身
+        if (Instance != null && Instance != this)
+        {
+            Destroy(gameObject);
+            return;
+        }
+        
         Instance = this;
         
         DontDestroyOnLoad(gameObject);

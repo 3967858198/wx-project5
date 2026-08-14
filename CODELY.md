@@ -14,6 +14,7 @@
 - [2026-08-13 05:48:06] wx-project5 项目用户明确要求用 Tuanjie 1.9.3 (2022.3.62t11) 打开（已成功打开运行）。注意：若出现编译错误（com.unity.instantgame AutoStreamingSettings API 变更）或 TMP 字体加载失败，检查是否需改用 2022.3.61t5。
 - [2026-08-13 09:32:35] 关卡流程（Build Settings 索引）：0=Game(第1关) 1=Loading 2=MainMenu 3=Game_1(第2关) 4=Game_2(第3关/Boss通关)。新游戏→Game；Ladder 按场景名串联 Game→Game_1→Game_2（Game_2 梯子触发胜利）；GameFail 重开回 MainMenu(2)。操作键位：WASD 移动、R 换弹、鼠标左键/空格开火、E 互动。
 - [2026-08-13 09:32:35] Tuanjie 1.9.3 调试经验：1) 场景中 prefab 实例的 guid 是加密格式（meta 里 base64 与场景引用不一致），不能靠搜 m_Name/guid 判断 prefab 实例是否存在，用编辑器脚本 GameObject.Find/transform.Find 验证；2) SceneAutoReload 触发 CMD 命令（如 CMD:COPY_FIRE_BUTTON）时需先写中间值（时间戳）再写 CMD，因为脚本编译域重载会重置静态 _lastContent；3) 开火按钮跨场景复用方案：FireButton.prefab(Assets/Resources/Prefabs/) + FireButton.cs 运行时绑定 Weapon.Instance，避免场景持久化 onClick 引用断裂。
+- [2026-08-14 19:37:12] MusicManager 与 GameManager（Assets/ 根目录的 .cs）已改为 Get() 自动创建单例：场景中没有对应对象时自动 new GameObject 并 AddComponent（Awake 内有去重+DontDestroyOnLoad，音频从 Resources/Prefabs/Music/ 回退加载）。Game_1/Game_2 场景刻意不放这两个管理器对象（只有 Game/MainMenu 有），单独打开关卡场景测试不会再报 MusicManager/GameManager 空引用；所有调用点统一用 Get() 而非 Instance。ShopPanel.prefab 根节点脚本 GUID 曾被修复为 ShopPanel.cs 的 c3fa2fea 开头 GUID（曾因 meta 重新生成导致 prefab 引用旧 GUID 报 missing script）。
 
 ### Reference
 

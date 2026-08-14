@@ -54,7 +54,7 @@ public class Player : MonoBehaviour
         GetComponent<FlickFX>().TriggerFlash();
         
         //播放音效
-        MusicManager.Instance.CreateMusic("playerHurt");
+        MusicManager.Get().CreateMusic("playerHurt");
         
         //判断是否死亡
         if (health <= 0)

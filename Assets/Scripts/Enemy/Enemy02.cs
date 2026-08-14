@@ -47,7 +47,7 @@ public class Enemy02 : EnemyBase
             bullet.GetComponent<Bullet02>().Init(dir, 1);
             
             //播放音效
-            MusicManager.Instance.CreateMusic("enemy02Attack");
+            MusicManager.Get().CreateMusic("enemy02Attack");
             
             //记录最后一次攻击时间
             lastAttackTime = Time.time;

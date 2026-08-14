@@ -25,32 +25,64 @@ public class MusicManager : MonoBehaviour
     
     public static MusicManager Instance;
     
+    //确保实例存在: 场景中没有MusicManager时自动创建, 便于单独打开任意关卡场景测试
+    public static MusicManager Get()
+    {
+        if (Instance == null)
+        {
+            var go = new GameObject("MusicManager");
+            go.AddComponent<MusicManager>();
+        }
+        return Instance;
+    }
+    
     private void Awake()
     {
+        //单例去重: 场景切换时已有实例则销毁自身
+        if (Instance != null && Instance != this)
+        {
+            Destroy(gameObject);
+            return;
+        }
+        
         Instance = this; 
         
         DontDestroyOnLoad(gameObject);
         
-        
-        dic.Add("enemy01Attack", enemy01Attack);
-        dic.Add("enemy02Attack", enemy02Attack);
-        dic.Add("enemy03Attack", enemy03Attack);
-        dic.Add("enemyHurt", enemyHurt);
-        dic.Add("playerHurt", playerHurt);
-        dic.Add("playerAttack", playerAttack);
-        dic.Add("playerReload", playerReload);
-        dic.Add("eatBottle", eatBottle);
-        dic.Add("openBox", openBox);
-        dic.Add("buttonClick", buttonClick);
-        dic.Add("buttonHover", buttonHover);
-        
-        
-        
+        //Inspector已配置的clip优先, 否则从Resources自动加载(Assets/Resources/Prefabs/Music/)
+        dic.Clear();
+        dic.Add("enemy01Attack", ResolveClip(enemy01Attack, "Prefabs/Music/砍人"));
+        dic.Add("enemy02Attack", ResolveClip(enemy02Attack, "Prefabs/Music/魔法弹"));
+        dic.Add("enemy03Attack", ResolveClip(enemy03Attack, "Prefabs/Music/喷火"));
+        dic.Add("enemyHurt", ResolveClip(enemyHurt, "Prefabs/Music/怪物受伤"));
+        dic.Add("playerHurt", ResolveClip(playerHurt, "Prefabs/Music/玩家受伤"));
+        dic.Add("playerAttack", ResolveClip(playerAttack, "Prefabs/Music/玩家射击"));
+        dic.Add("playerReload", ResolveClip(playerReload, "Prefabs/Music/玩家换弹"));
+        dic.Add("eatBottle", ResolveClip(eatBottle, "Prefabs/Music/回血"));
+        dic.Add("openBox", ResolveClip(openBox, "Prefabs/Music/开箱子"));
+        dic.Add("buttonClick", ResolveClip(buttonClick, "Prefabs/Music/按钮"));
+        dic.Add("buttonHover", ResolveClip(buttonHover, "Prefabs/Music/菜单"));
+    }
+    
+    //Inspector的clip为空时从Resources加载
+    private AudioClip ResolveClip(AudioClip inspectorClip, string resourcePath)
+    {
+        if (inspectorClip != null)
+        {
+            return inspectorClip;
+        }
+        return Resources.Load<AudioClip>(resourcePath);
     }
 
     //创建音效
     public void CreateMusic(string name)
     {
+        //音效未配置时直接返回, 避免空引用
+        if (string.IsNullOrEmpty(name) || !dic.ContainsKey(name) || dic[name] == null)
+        {
+            return;
+        }
+        
         //创建对象
         GameObject go = new GameObject(name);
         go.transform.SetParent(transform);

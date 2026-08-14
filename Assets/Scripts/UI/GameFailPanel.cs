@@ -31,7 +31,7 @@ public class GameFailPanel : BasePanel
         {
             SceneManager.LoadScene(2);
             //切换指针为ui
-            GameManager.Instance.SetShootCursor();
+            GameManager.Get().SetShootCursor();
         });
         
         //退出游戏

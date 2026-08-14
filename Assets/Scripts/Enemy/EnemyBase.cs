@@ -118,7 +118,7 @@ public abstract class EnemyBase : MonoBehaviour
         health = Math.Max(health - damage, 0);
 
         //播放音效
-        MusicManager.Instance.CreateMusic("enemyHurt");
+        MusicManager.Get().CreateMusic("enemyHurt");
         
         //判断是否死亡
         if (health <= 0)
@@ -137,8 +137,15 @@ public abstract class EnemyBase : MonoBehaviour
 
         //标记死亡
         isDead = true;
-        //播放死亡动画
-        _anim.SetTrigger("Die");
+        //播放死亡动画(按控制器参数选择: Enemy01用Die, Enemy03用Dead)
+        if (System.Array.Exists(_anim.parameters, p => p.name == "Die"))
+        {
+            _anim.SetTrigger("Die");
+        }
+        else if (System.Array.Exists(_anim.parameters, p => p.name == "Dead"))
+        {
+            _anim.SetTrigger("Dead");
+        }
         //速度为0
         _rb.velocity = Vector2.zero;
         //关闭碰撞体

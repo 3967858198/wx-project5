@@ -43,7 +43,7 @@ public class Box : MonoBehaviour
         _anim.enabled = true;
         
         //播放音效
-        MusicManager.Instance.CreateMusic("openBox");
+        MusicManager.Get().CreateMusic("openBox");
         
         //关闭碰撞器
         GetComponent<BoxCollider2D>().enabled = false;

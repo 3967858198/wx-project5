@@ -47,7 +47,7 @@ public class Enemy03 : EnemyBase
             bullet.OpenCollier();
             
             //播放音效
-            MusicManager.Instance.CreateMusic("enemy03Attack");
+            MusicManager.Get().CreateMusic("enemy03Attack");
             
             //记录最后攻击时间
             lastAttackTime = Time.time;

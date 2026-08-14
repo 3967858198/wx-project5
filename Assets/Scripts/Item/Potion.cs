@@ -31,7 +31,7 @@ public class Potion : MonoBehaviour
                 col.GetComponent<Player>().AddHp(hp);
                 
                 //播放音效
-                MusicManager.Instance.CreateMusic("eatBottle");
+                MusicManager.Get().CreateMusic("eatBottle");
                 
                 Destroy(gameObject);
             }

@@ -24,7 +24,7 @@ public class LoadingController : MonoBehaviour
         //2秒后切换到游戏主场景
         SceneManager.LoadScene(2);
 
-        GameManager.Instance.SetShootCursor();
+        GameManager.Get().SetShootCursor();
     }
 
 }

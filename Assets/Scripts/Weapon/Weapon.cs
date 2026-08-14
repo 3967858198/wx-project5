@@ -204,7 +204,7 @@ public class Weapon : MonoBehaviour
 
         //射击音效
         //播放音效
-        MusicManager.Instance.CreateMusic("playerAttack");
+        MusicManager.Get().CreateMusic("playerAttack");
 
 
     }
@@ -255,7 +255,7 @@ public class Weapon : MonoBehaviour
         _reloadBullet.SetActive(true);
         
         //播放音效
-        MusicManager.Instance.CreateMusic("playerReload");
+        MusicManager.Get().CreateMusic("playerReload");
 
         //等待换弹时间
         yield return new WaitForSeconds(reloadTime);
